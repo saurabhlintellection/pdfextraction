@@ -1,0 +1,8789 @@
+ELECTORAL ROLL 2022 U05 NCT OF Delhi
+
+ 
+
+(GEN)
+
+No. Name and Reservation Status of Assembly Constituency : 1 - NERELA
+
+ 
+
+Part No.-
+1
+
+ 
+
+(SC )
+
+No. Name and Reservation Status of Parliamentary Constituency(ies) in which the Assembly
+Constituency is located : 5- NORTH WEST DELHI
+
+ 
+
+1. Details of Revision
+
+ 
+
+Year of Revision
+
+Qualifying Date
+
+2022
+
+01-01-2022
+
+ 
+
+Roll Identification
+
+Basic roll of intensive revision, 2008
+integrated with all supplements
+preceding special summary revision,
+
+ 
+
+ 
+
+ 
+
+ 
+
+. Special Summary 2022
+Type of revision Revision, 2022
+Date of Publication 05-01-2022
+2. DETAILS OF PART AND POLLING AREA
+No. and name of sections in the part
+1. CHAKKI WALI GALI,VILLAGE LAMPUR ;
+2. KOTLA GALI , VILLAGE LAMPUR Main Town or Village » Delhi
+3. RAMLILA GROUND, VILLAGE LAMPUR were S tion : INRELA
+4. SHIV MANDIR GALI, VILLAGE LAMPUR re  NARELA
+District > NORTH
+Pin > 110040
+
+ 
+
+3. POLLING STATION DETAILS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+No. and Name of Polling Station : Type of Polling Station General
+(Male/Female/General)
+1-VILL LAMPUR
+Address of Polling Station : Number of Auxiliary Polling
+Stations in this part : 0
+NAGAR NIGAM PRATHMIK (CO-ED) UTKRISHT SCHOOL
+VILLAGE LAMPUR VILLAGE LAMPUR
+4. NUMBER OF ELECTORS
+Starting Ending Net Electors
+Serial No. Serial No. Male Female Third Gender Total
+1 1028 558 467 0 1025
+
+ 
+
+ 
+
+Issued by Electoral Registration Officer
+
+Total Pages 39 - Page 1
+
+ 
+Assembly Constituency No and Name: 1-NERELA
+
+Nazri Naksha
+
+CAD View
+
+ 
+
+Google Map View
+
+ 
+
+Part No.-:1
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DOOR, WINDOW
+
+Age as on 01.01.2022
+
+poOR
+BE rvesnton
+erosion
+BBescoer
+ENTRY
+
+ 
+
+Secale Len: int
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 2
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+Section No and Name : 1-CHAKK! WALI GALI, VILLAGE LAMPUR
+i XVX0000018 2 XVX0000034 3 XVX2 746476
+Name: JAGDISH CHAND BHARA Name: SANDEEP Name: PUNEET SAINI
+Father's Name > MITTHAN LAL Father's Name : JAGDISH CHAND Father's Name - NEERAJ SAINI
+House Number: 1 House Number: 1 House Number: 5
+Age: 68 Sex: MALE Photo is Age: 44 Sex: MALE Photo is Age: 23 Sex: MALE Photo is
+Available Available Available
+4 XVX2176329 5 JDJO786046 6 XVX0000075
+Name: HEMA Name: MUKESH KUMAR Name: SHISHAN KAUR
+Husband's Name: SURAJ Father's Name : CHANDER PRAKASH Husband's Name: MUKESH KUMAR
+House Number : 6F House Number: 7 . House Number: 7
+Age: 31 Sex: FEMALE Photo is Age: 48 Sex: MALE Photois || Age: 46 Sex: FEMALE Photo is
+Available Available Available
+i XVX0000125 8 XVX0000133 8 XVX00001538
+Name: MAHENDERA SINGH SAINI Name: SANTOSH DEVI Name: JYOTI SARUP
+Father's Name : SHRICHAND Husband's Name : MAHENDER SINGH Father's Name: ISHVWER SINGH
+House Number: 9 House Number: 9 House Number: 9
+Age: 72 Sex: MALE Photo is Age: 63 Sex: FEMALE Photo is Age: 48 Sex: MALE Photo is
+Available Available Available
+10 XVX0000174 4 XVX0000166 12 XVX0000190
+Name: VIRENDER SAINI Name: NAVEEN Name: POONAM
+Father's Name : MAHENDER SINGH Father's Name : ISHWER SINGH Husband's Name: JYOTI KUMAR
+House Number: 9 House Number: 9 House Number: 9
+Age: 43 Sex: MALE Photo is Age: 42 Sex: MALE Photo is Age: 40 Sex: FEMALE Photo is
+Available Available Available
+13 XVX0000182 14 XVX2070316 8 XVX1913886
+Name: ARUN SAINI Name: NISHA RANI Name > NEELAM SAINI
+Husband's Name : NAVEEN Husband's Name: VIRENDER SINGH Father's Name - MAHENDER SINGH
+House Number: 9 House Number: 9 SAINI
+Age: 39 Sex: FEMALE Photo is Age: 38 Sex: FEMALE Photo is House Number: 9 Photo is
+Available Available Age: 34 Sex: FEMALE Available
+16 XVX2613940 7 XVX2514965 18 XVX2833499
+Name: PUNAM Name: SANDEEP SINGAL Name: Shivani Sharma
+Husband's Name : JYOTI KUMAR Father's Name: AJAY SINGAL Mother's Name : Madhu Sharma Madhu
+House Number : 09 House Number: 9A House Number: 13/274
+Age: 33 Sex: FEMALE Photo is Age: 26 Sex: MALE Photo is Age: 22 Sex: FEMALE Photo is
+Available Available Available
+19 XVX0000059 20 XVX0000117 21 XVX0000109
+Name: CHANDER PRAKASH Name: MANISH KUMAR Name: RUCHI KAUSHAL
+KAUSHAL Father's Name : CHAND PRAKASH Husband's Name : MANISH KAUSHAL
+Father's Name: RAM House Number: 164 House Number: 16-4
+House Number: 164 Photo is Age: 47 Sex: MALE Photo is Age: 43 Sex: FEMALE Photo is
+Age: 77 Sex: MALE Available Available Available
+22 XVX2227725 23 XVX2607760 24 XVX2157907
+Name: PREETI SAINI Name: SARLA Name: REETA CHATURVEDI
+Father's Name: RAJKUMAR SAINI Husband's Name: BALRAM Husband's Name : RAMESHWAR
+House Number: 18 House Number: 20 CHATURVEDI
+Age: 31 Sex: FEMALE Photo is Age: 59 Sex: FEMALE Photo is House Number: 20 Photo is
+Available Available Age: 42 Sex: FEMALE Available
+25 XVX2032133 26 XVX2918332 27 XVX0001081
+Name: SUBHASH Name: Krishan Name: RAMESH KUMAR
+Father's Name : DEEP CHAND Father's Name : Rajbir Father's Name: RAM SINGH
+House Number: 27 House Number : 33/17/2 . House Number: 34
+Age: 48 Sex: MALE Photo is Age: 21 Sex: MALE Photo is || Age: 52 Sex: MALE Photo is
+Available Available Available
+28 XVX3301140 29 XVX2602860 30 XVX2565570
+Name: RITIKA Name: POOJA KUMARI Name: DHARAMPAL SHARMA
+Father's Name: RAMESH KUMAR Father's Name : CHANDRA BHUSHAN Father's Name: SURAJPAL SHARMA
+House Number: 37 GUPTA ; House Number: 46
+Age: 20 Sex: FEMALE Photo is House Number: 43 Photo is || Age: 68 Sex: MALE Photo is
+Available Age: 26 Sex: FEMALE Available Available
+Age as on 01.01.2022 Date of Publication:-05-01-2022 Total Pages 39 - Page 3
+
+ 
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+
+Section No and Name : 1-CHAKKI WALI GALI, VILLAGE LAMPUR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ 31 | XVX2595031 32 XVX1940204 [ 33 XVX2633419
+Name: LALITA SHARMA Name: NAIMUDDIN Name: RACHNA SAINI
+Father's Name : DHARAMPAL SHARMA Father's Name : IMAMUDDIN Husband's Name : PARVEEN SAINI
+House Number: 46 House Number: 50/12 House Number: 57
+Age: 26 Sex: FEMALE Photo is Age: 29 Sex: MALE Photo is Age: 42 Sex: FEMALE Photo is
+Available Available Available
+34 XVX2612760 35 JDJ1256510 [ 36 XVX2666766
+Name: RAJNI DEVI Name: NAVEEN Name: MANISH SAINI
+Husband's Name: RAJENDER Father's Name : NARENDER Father's Name : NARESH KUMAR
+RATHOR House Number: 63 House Number: 66
+House Number: 60 Photo is Age: 39 Sex: MALE Photois || Age: 31 Sex: MALE Photo is
+Age: 37 Sex: FEMALE Available Available Available
+[ Ea] XVX2510386 38 XVX2510121 [ 39 XVX2603610
+Name: RAJKAUR RANA Name: RAKESH KUMAR Name: RAHUL GUPTA
+Husband's Name: RICHPAL Father's Name: RICH PAL Father's Name: RAGHUBIR GUPTA
+House Number: 73-A House Number: 73-A House Number: 74
+Age: 67 Sex: FEMALE Photo is Age: 46 Sex: MALE Photois || Age: 27 Sex: MALE Photo is
+Available Available Available
+40 XVX2618601 al XVX3302254 | 42 XVX2550572
+Name: PRIMAL SHAH Name: ANKUSH Name: SANTOSH
+Father's Name: ATUL SHAH Father's Name : MAHENDER SINGH Husband's Name: GURMEET KUMAR
+House Number: 74 House Number: 77 House Number: 78
+Age: 25 Sex: MALE Photo is Age: 20 Sex: MALE Photo is Age: 54 Sex: FEMALE Photo is
+Available Available Available
+43 XVX2276995 a4 XVX1924611 | a5 XVX3346988
+Name: JAl DEV Name: KRISHAN SAINI Name: Mohammad Faisal
+Father's Name: RAJPAL Father's Name : NANHE RAM Father's Name: Mohammad Furqan
+House Number: 84 House Number: 86 House Number: 88
+Age: 29 Sex: MALE Photo is Age: 74 Sex: MALE Photois || Age: 23 Sex: MALE Photo is
+Available Available Available
+[ 46 | XVX2493079 a7 XVX2610632 [ 48 XVX3273216
+Name: SAPNA RANI Name: NIDHI PURI Name: MEGHA SAINI
+Husband's Name : ANIL KUMAR SAINI Husband's Name : ROHIT PURI Father's Name - GULSHAN SAINI
+House Number : 95. House Number : 99 House Number: 102
+Age: 31 Sex: FEMALE Photo is Age: 33 Sex: FEMALE Photo is Age: 23 Sex: FEMALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+49 XVX3342664 50 XVX3342649 [ 51 XVX2801181
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: BUJENDER SAINI Name: Praveen Name: BIMLA
+
+Father's Name: JAl KUMAR Father's Name: JAl KUMAR Husband's Name: RAJENDER SAINI
+
+House Number: 103 House Number: 103 ; House Number: 105
+
+Age: 22 Sex: MALE Photo is Age: 20 Sex: MALE Photo is Age: 68 Sex: FEMALE Photo is
+Available Available Available
+
+[ 52 | XVX2837300 53 XVX2607562 [ 54 XVX2269197
+
+Name: Kavita Name: MOHAMMAD JUMMAN ANSARI Name: LALITA RANI
+
+Father's Name: SANGRAM YADAV Father's Name : MATIBAR ANSARI Husband's Name: RAVINDER
+
+House Number: 106/69 House Number: 107 House Number: 112
+
+Age: 22 Sex: FEMALE Photo is Age: 43 Sex: MALE Photo is Age: 42 Sex: FEMALE Photo is
+Available Available Available
+
+55 XVX2159910 36 XVX2158979 [ 57 XVX2595379
+
+Name: DHANANJAY YADAV Name: SHIV KUMAR Name: BIND KUMAR
+
+Father's Name: SOHAN YADAV Father's Name : RAM DEV MAHTO Father's Name: SHATRUGHAN YADAV
+
+House Number: 112 House Number: 116 House Number: 119
+
+Age: 29 Sex: MALE Photo is Age: 41 Sex: MALE Photo is Age: 26 Sex: MALE Photo is
+Available Available Available
+
+[ 58 | XVX2461118 59 XVX2220332 [ 60 XVX2259306
+
+Name: ROSHNI ALEYAMMA JOHN Name: SEEMA Name: VIPUL KUMAR
+
+Father's Name: P V JOHN Husband's Name : RAHUL KUMAR Father's Name: RAJNDRA
+
+House Number: 124 House Number : 123 . House Number: 124
+
+Age: 27 Sex: MALE Photo is Age: 34 Sex: FEMALE Photois || Age: 45 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022 Date of Publication:-05-01-2022 Total Pages 39 - Page 4
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 1-CHAKKI WALI GALI, VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+| xvx2o90a48 = [L__ xvxzeto4ig = [L___—] XVX2498382
+Name: PANKAJ TIWARI Name: SNIGDHA CHAKRABORTY Name: UMA SHANKAR
+Father's Name: GAUTAM TIWARI Father's Name : PARTHA Father's Name : UMA SHANKAR
+House Number: 135 CHAKRABORTY House Number: 136
+Age: 27 Sex: MALE Photo is House Number: 136 Photo is Age: 43 Sex: MALE Photo is
+Available Age: 29 Sex: FEMALE Available Available
+b4 XVX1521111 65 XVX3345762 86 XVX3341229
+Name: SARITA DEVI Name: KUSUM Name: PARAS
+Husband's Name: SANDEEP SAINI Father's Name : JAGDISH CHANDER Father's Name: SANDEEP KUMAR
+House Number: 138 House Number: 138 House Number: 138
+Age: 41 Sex: FEMALE Photo is Age: 34 Sex: FEMALE Photois || Age: 22 Sex: MALE Photo is
+Available Available Available
+[ | XVX2616977 58 XVX2556594 69 XVX2513851
+Name: SHALU Name: BABITA RANI Name: RISHI DABAS
+Husband's Name: KISHAN Husband's Name : BRAHAMANAND Father's Name: RAMESH CHANDER,
+House Number: 144 House Number: 147 House Number: 147
+Age: 31 Sex: FEMALE Photo is Age: 40 Sex: FEMALE Photois || Age: 38 Sex: MALE Photo is
+Available Available Available
+70 XVX2556603 A XVX2610566 re XVX2258977
+Name: KUSUM RANI Name: RITU RANJAN Name: BINOD CHAURASIYA
+Husband's Name: AMIT KUMAR Father's Name : SHASHI BHUSHAN Father's Name : OM PRAKASH
+House Number: 147 House Number: 147 CHAURASIYA
+Age: 32 Sex: FEMALE Photo is Age: 31 Sex: MALE Photo is House Number: 148 Photo is
+Available Available Age: 48 Sex: MALE Available
+a XVX1771146 i4 XVX2723905 is XVX2602026
+Name: JASWANT SINGH Name : MEHBOOB Name: GANESH KUMAR
+Father's Name: ANUP SINGH Father's Name : SAMUNDER SINGH Father's Name: SAKALDEV SAHU
+House Number: 150 House Number: 156 House Number: 158
+Age: 58 Sex: MALE Photo is Age: 24 Sex: MALE Photois || Age: 27 Sex: MALE Photo is
+Available Available Available
+76 XVX2158202 [7] XVX2248184 [7] XVX2100634
+Name: BHAGWAT SARUP Name: BRIJESH KUMAR DUBEY Name: JALKARAN
+Father's Name > NANAK CHAND Father's Name : SHANKAR DUBEY Father's Name: RAM SINGH
+House Number: 163 House Number: 168 House Number: 189
+Age: 49 Sex: MALE Photo is Age: 34 Sex: MALE Photo is Age: 51 Sex: MALE Photo is
+Available Available Available
+is XVX2260719 80 XVX2857209 a1 XVX2165629
+Name: DARSHAN Name - MAHENDER Name: BABLI
+Husband's Name: JAl KARAN Father's Name : JALKARAN Husband's Name : JASWANT SINGH
+House Number: 189 House Number: 189 SAINI
+Age: 47 Sex: FEMALE Photo is Age: 21 Sex: MALE Photo is House Number: 193 Photo is
+Available Available Age: 43 Sex: FEMALE Available
+82 xvx2937159 |L_] XVX2466406 84 XVX2609930
+Name: HIMANSHU SAINI Name: ANITA Name: MANJU YADAV
+Father's Name : JASWANT SINGH Husband's Name : JAl PARKASH Husband's Name : HARISH KUMAR
+SAINI House Number: 212 YADAV
+House Number: 193 Photo is Age: 52 Sex: FEMALE Photo is House Number: 213 Photo is
+Age: 21 Sex: MALE Available Available Age: 43 Sex: FEMALE Available
+85 XVX2610391 86 XVX2610368 87 XVX2559508
+Name: SITA RAM Name: MEENA Name: RAJ KUMAR
+Father's Name: PARKESH Husband's Name: SITA RAM Father's Name - PRAKESH
+House Number: 217 House Number: 217 House Number: 217
+Age: 47 Sex: MALE Photo is Age: 39 Sex: FEMALE Photo is Age: 34 Sex: MALE Photo is
+Available Available Available
+[ 88 | XVX2801165 89 XVX2491149 90 XVX2641967
+Name: KAMAL Name: GULAB SINGH Name: MOHD ANWAR
+Father's Name: RAM KUMAR, Father's Name: RAJ SINGH Father's Name -: MOHD YASEEN
+House Number : 225 House Number : 229 House Number: 242
+Age: 24 Sex: MALE Photo is Age: 39 Sex: MALE Photo is || Age: 30 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 5
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+Section No and Name : 1-CHAKK! WALI GALI, VILLAGE LAMPUR
+[ 1 | XVX2437480 92 XVX2602506 [ 93 XVX2611572
+Name: RAJNI Name: MONU DASS Name: HARISH GUPTA
+Father's Name: BIRPAL Father's Name : MADHAV DASS. Father's Name: BAICHAN GUPTA
+House Number: 247 House Number: 249 House Number: 254
+Age: 29 Sex: FEMALE Photo is Age: 28 Sex: MALE Photo is Age: 47 Sex: MALE Photo is
+Available Available Available
+94 XVX2618056 95 XVX2435997 96 XVX2258944
+Name: UDIT KUMAR Name: OM PRAKASH Name: SONALI DEVI
+Father's Name : GANESH MAHTO Father's Name : RAMHER Husband's Name: AMIL KUMAR
+House Number : 263 House Number: 304 . House Number: 306
+Age: 30 Sex: MALE Photo is Age: 76 Sex: MALE Photois || Age: 34 Sex: FEMALE Photo is
+Available Available Available
+oF XVX2608361 98 XVX2608354 [ 99 XVX2596583,
+Name: MAHESH CHAND TIWARI Name: BHAWANA TIWARI Name: ASHU
+Father's Name: PURN CHAND TIWARI Husband's Name : MAHESH TIWARI Father's Name: LIYAKAT KHAN
+House Number : 325 House Number: 325 . House Number: 326
+Age: 44 Sex: MALE Photo is Age: 36 Sex: FEMALE Photois || Age: 28 Sex: MALE Photo is
+Available Available Available
+100 XVX2608445 101 JDJ0886440 102 XVX2613460
+Name: KAMLA DEVI Name: JOGINDER SINGH Name: SUMAN SAROHA
+Husband's Name : HARPAL SINGH Father's Name : SAROOP: Husband's Name: JITENDER SAROHA
+House Number : 333 House Number : 336A . House Number : 352-353
+Age: 63 Sex: FEMALE Photo is Age: 49 Sex: MALE Photo is Age: 32 Sex: FEMALE Photo is
+Available Available Available
+103 XVX2613453 104 XVX2612744 105 XVX2608866
+Name: GEETA SAROHA Name: DROPTI DEVI Name: RENU DEVI
+Husband's Name : BHUPENDER Husband's Name: RAMADHAR Husband's Name: VIJAY KUMAR
+SAROHA House Number: 382 ; House Number: 391
+House Number: 352-353 Photo is Age: 38 Sex: FEMALE Photois || Age: 34 Sex: FEMALE Photo is
+Age: 30 Sex: FEMALE Available Available Available
+106 XVX2612166 107 XVX2260635 108 XVX2607901
+Name: SWETA KUMARI Name: AMIT Name: SATENDRA THAKUR
+Husband's Name: AJIT RAI Father's Name: VIKAS Father's Name: JALIM THAKUR
+House Number: 432 House Number : 458 ; House Number: 483
+Age: 30 Sex: FEMALE Photo is Age: 31 Sex: MALE Photo is Age: 36 Sex: MALE Photo is
+Available Available Available
+jos XVX2337425 v0 XVX2604295 m JDJ0793620
+Name: SURJEET Name: YOGESH MEHRA Name: MEENA
+Father's Name : BHANE RAM Father's Name : OM PARKASH Husband's Name : NARENDER
+House Number: 574 House Number : 634 ; House Number : 680 IIND
+Age: 40 Sex: MALE Photo is Age: 28 Sex: MALE Photo is Age: 47 Sex: FEMALE Photo is
+Available Available Available
+112 XVX2799021 $113 XVX0056523 114 XVX2556652
+Name: NIRMALA DEVI Name: ROOPWATI Name: VINOD YADAV
+Husband's Name : DEEPAK KUMAR Husband's Name 3 (GH Father's Name: RAM SAGAR YADAV
+House Number: 691 House Numbery House Number: 749
+Age: 40 Sex: FEMALE Photo is Age : : (ALE Photo is Age: 39 Sex: MALE Photo is
+Available Available Available
+a5 XVX2345196 116 XVX2965267 Ww XVX1210160
+Name: YASHBIR Name: KRISHNA DEVI Name: REENA
+Father's Name: JAIPAL Husband's Name : RAJENDER Husband's Name : SATISH KUMAR
+House Number: 915 House Number: 924 House Number: 921
+Age: 33 Sex: MALE Photo is Age: 58 Sex: FEMALE Photo is Age: 41 Sex: FEMALE Photo is
+Available Available Available
+118 JDJ1365824 9 XVX2157575 120 XVX2 159076
+Name: SUSHMA Name: RAJESH SHARMA Name: SIDDHARTH KHOSLA
+Father's Name: RAMESH CHAND Father's Name : PANNA LAL SHARMA Father's Name = ASHISH KHOSLA
+House Number : 922 House Number: 1401 | House Number: 1973/3A PART 2
+Age: 36 Sex: FEMALE Photo is Age: 33 Sex: MALE Photo is || Age: 30 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 6
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+Section No and Name : 1-CHAKK! WALI GALI, VILLAGE LAMPUR
+121 XVX2610160 122 XVX2461175 [ 123 AZM1420611
+Name: NEELM PAL Name: RAM KUMAR Name: PRVESH KUMAR
+Husband's Name : SURYE PARKASH Father's Name : RAMDEV RAVI DAS Father's Name - MEVARAM
+PAL House Number: 2515 House Number: A-2/27
+House Number: 2002 Photo is Age: 68 Sex: MALE Photo is Age: 31 Sex: MALE Photo is
+Age: 34 Sex: FEMALE Available Available Available
+124 XVX2086163 125 XVX2250629 126 XVX2031994
+Name: ANJU SINGH Name: AMIT KUMAR Name: BHANU GAUTAM
+Husband's Name: AMBIKA SINGH Father's Name : SANTRAM Father's Name : NARESH GAUTAM
+House Number: A2/1073 House Number: A-4 . House Number: A 27
+Age: 35 Sex: FEMALE Photo is Age: 27 Sex: MALE Photois || Age: 29 Sex: FEMALE Photo is
+Available Available Available
+127 JDJ0710947 128 XVX2837359 129 XVX2246619
+Name: PAWAN KUMAR Name : tarun singh Name: MUNNA LAL
+Father's Name: DEVINDER PARSAD Father's Name : ram sharan singh Father's Name: GAYADIN
+House Number: A-33 House Number: a-66/f-42 mangeram . House Number: A-235
+Age: 43 Sex: MALE Photo is park Photo is || Age: 50 Sex: MALE Photo is
+Available Age: 22 Sex: MALE Available Available
+130 XVX2506475 131 XVX2498085 132 XVX2 763943
+Name: ANJANA Name: MD NUSHAD Name: NASEEBA
+Father's Name: NARESH Father's Name: SAMIM Husband's Name: NIJAM
+House Number : A-307 House Number : A351 House Number: A1475
+Age: 26 Sex: FEMALE Photo is Age: 26 Sex: MALE Photo is Age: 34 Sex: FEMALE Photo is
+Available Available Available
+133 XVX2642106 134 XVX0219113 135 XVX2486990
+Name: SWARNA SHARMA Name: SAMEER BATRA Name: DHARMENDER KUMAR JHA
+Father's Name : ASHWANI SHARMA Father's Name : SHYAM SUNDER Father's Name : RUDRA NARAYAN JHA
+House Number: B-2G-BLK House Number : B-15 first floor | House Number: B-159
+Age: 26 Sex: FEMALE Photo is Age: 36 Sex: MALE Photois || Age: 47 Sex: MALE Photo is
+Available Available Available
+136 XVX2607322 137 XVX2750453 138 XVX2313616
+Name: MD MUKIM Name: MD NAUSAD Name: SARJAN
+Father's Name : MD HUSAINI Father's Name: ASLAM Father's Name: RAM PRAKASH
+House Number: B-2588 House Number: C-4/106 House Number: C-96-A
+Age: 49 Sex: MALE Photo is Age: 32 Sex: MALE Photo is Age: 30 Sex: MALE Photo is
+Available Available Available
+139 XVX2602042 140 XVX2609781 141 XVX0503425
+Name: SONU KUMAR Name: SUBODH KUMAR Name: SOMNATH
+Father's Name : MAHENDRA SINGH Father's Name : MUKESHWAR RAI Father's Name - GOPINATH
+House Number: C-142 House Number: D67 House Number: D-151/A
+Age: 27 Sex: MALE Photo is Age: 35 Sex: MALE Photo is Age: 57 Sex: MALE Photo is
+Available Available Available
+142 XVX2610012 143 XVX2606416 144 XVX2376423
+Name: SHATRUGHAN RAUT Name: VIKASH PAL Name: SHASHANK JAIN
+Father's Name: PRAKASH RAUT Mother's Name : SHANTI DEVI Father's Name: DINESH JAIN
+House Number: DIRD House Number: E101 House Number: F-G/73
+Age: 37 Sex: MALE Photo is Age: 28 Sex: MALE Photo is Age: 28 Sex: MALE Photo is
+Available Available Available
+145 XVX2604253 146 XVX2159324 147 XVX2610335
+Name: SANTOSH KUMAR Name: SUNITA SHARMA Name: MAHESH GUPTA
+Father's Name: RAM KISHOR KAMAT Husband's Name : DINESH KUMAR Father's Name: OPENDRA GUPTA
+House Number: F-18626 SHARMA House Number: FLATNO205
+Age: 28 Sex: MALE Photo is House Number: FLAT NO - 37 Photo is Age: 37 Sex: MALE Photo is
+Available Age: 42 Sex: FEMALE Available Available
+148 XVX2616547 149 XVX2549292 150 XVX2344579
+Name: KUMKUM DEVI Name: SEEMA Name: PUNIT PARSHAD
+Husband's Name : AKHILESH KUMAR Husband's Name : SATISH KUMAR Father's Name: JAl NARAYAN
+House Number: FLATNO244. House Number: FLATNO-244 | House Number: G-2
+Age: 46 Sex: FEMALE Photo is Age: 43 Sex: FEMALE Photo is || Age: 50 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 7
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+Section No and Name : 1-CHAKK! WALI GALI, VILLAGE LAMPUR
+151 XVX2344594 182 XVX2344586 [ 153 XVX2610020
+Name: SABNAM Name: RAHUL Name: ASHA DEVI
+Husband's Name : YAMIN Father's Name : JAGDISH PARSHAD Husband's Name : PREM SAGAR
+House Number: G-2 House Number: G-2 House Number: G-1067
+Age: 35 Sex: FEMALE Photo is Age: 29 Sex: MALE Photo is Age: 44 Sex: FEMALE Photo is
+Available Available Available
+154 XVX2595395 195 XVX2517737 156 XVX2271856
+Name: AAKASH SINGH Name: NIVEDITA Name: ANITA DEVI
+Father's Name: BRIJESH Father's Name : HEMCHANDER Husband's Name: LALLAN KUMAR
+House Number : H-207 SHARMA ; House Number > HN-110
+Age: 26 Sex: MALE Photo is House Number : HN-19-B Photois || Age: 36 Sex: FEMALE Photo is
+Available Age: 30 Sex: FEMALE Available Available
+157 XVX2607579 158 XVX2613718 159 XVX2615714
+Name: INDER SINGH Name: SUMAN Name: SUMAN
+Father's Name: RATAN SINGH Husband's Name: YOGESH KUMAR Husband's Name : SUBHASH
+House Number > HN-145. House Number: HN-414 | House Number > HNOO1
+Age: 43 Sex: MALE Photo is Age: 36 Sex: FEMALE Photois || Age: 31 Sex: FEMALE Photo is
+Available Available Available
+160 XVX2607975 161 XVX2158185 162 XVX2792579
+Name: MEENAKSHI DEVI Name: VIPIN KUMAR UPADHYAY Name: KAPIL KAUSHAL KAUSHAL
+Husband's Name : DHANVEER SINGH Father's Name : SHRI VINOD KUMAR Father's Name : MANOJ KAUSHAL
+UNIYAL UPADHYAY ; KAUSHAL
+House Number - HNO-05 Photo is | | House Number > HNO 14 Photo is | | House Number > HNO-16 Photo is
+Age: 34 Sex: FEMALE Available || Age: 34 Sex: MALE Available || Age: 24 Sex: MALE Available
+163 XVX2671443 164 XVX2158169 165 XVX2723897
+Name: POONAM Name: PARAMJEET KHATRI Name: SAGAR SAINI
+Husband's Name: KIRTI TRIPATHI Mother's Name : KAMLESH DEVI Father's Name : JAI NARAIN
+House Number > HNO-23. House Number: HNO- 47 | House Number - HNO-88
+Age: 32 Sex: FEMALE Photo is Age: 30 Sex: MALE Photois || Age: 24 Sex: MALE Photo is
+Available Available Available
+[168] XVX2498854 [187] XVX2602471 | XVX2498648
+Name: ABISEK RAJAN Name: KOMAL Name: ARUN KUMAR VERMA
+Father's Name : HARIHAR JHA Father's Name: BALWAN Father's Name: VIJENDER KUMAR
+House Number: HNO-277 House Number : HNO-338 . VERMA
+Age: 33 Sex: MALE Photo is Age: 25 Sex: FEMALE Photo is House Number: HNO464 Photo is
+Available Available Age: 26 Sex: MALE Available
+169 XVX2274131 170 XVX2461183 im XVX2918316
+Name: ANJANA DASS Name: GEETA PANDEY Name: MOHD KHALIL
+Father's Name: MUKT| PAD DASS Father's Name : DAMODER PANDEY Father's Name - MOHD NAZIR.
+House Number : HNOS564 House Number : HNO-4802 ; House Number - HOUSE NO.-23
+Age: 31 Sex: FEMALE Photo is Age: 29 Sex: FEMALE Photo is Age: 34 Sex: MALE Photo is
+Available Available Available
+12 XVX3327525 173 XVX2277464 174 XVX1254687
+Name: Yogita Gaur Name: LOKESH Name: MEENA VEVI
+Father's Name: Sunil Father's Name : SUBHASH CHAND Husband's Name: JAY PRAKASH
+House Number: House no 222 House Number : HIRANKI CHAUHAN
+Age: 20 Sex: FEMALE Photo is Age: 29 Sex: MALE Photo is House Number: HOUSENO283 Photo is
+Available Available Age: 30 Sex: FEMALE Available
+7s XVX2512366 176 XVX2508520 Ww XVX2467651
+Name: SIMRAN Name: UDAY SHANKER PRASAD Name: RAGINI
+Husband's Name : JITENDER KUMAR, Father's Name : RAMADHAR PRASAD Father's Name : GHANSHYAM DAS
+House Number: 1-862 SHAHI House Number: J-42
+Age: 38 Sex: FEMALE Photo is House Number : |-2290 Photo is Age: 38 Sex: FEMALE Photo is
+Available Age: 59 Sex: MALE Available Available
+178 XVX2546140 179 XVX2965333 180 XVX2608940
+Name: OM PRAKASH Name: USHA RAWAT Name: MEENA DEVI
+Father's Name: INDER PRASAD Husband's Name : DIGPAL SINGH Husband's Name : RAGHU NATH
+House Number: K-4 RAWAT ; House Number = KH-NO13/23
+Age: 37 Sex: MALE Photo is House Number: K-18 Photois || Age: 47 Sex: FEMALE Photo is
+Available Age: 52 Sex: FEMALE Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 8
+
+ 
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+
+Section No and Name : 1-CHAKKI WALI GALI, VILLAGE LAMPUR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+181 XVX2337094 182 XVX2095123 183 XVX2608958
+
+Name: SEEMA Name: SUMAN SHARMA Name: SITA
+
+Husband's Name : PRAVEEN SAINI Husband's Name : VARUN SHARMA Father's Name - RAGHU NATH
+
+House Number : KH-50/6 House Number: KH-123 SF House Number > KH-NO13/23
+
+Age: 35 Sex: FEMALE Photo is Age: 35 Sex: FEMALE Photo is Age: 29 Sex: FEMALE Photo is
+Available Available Available
+
+[ 184] XVX2595254 185 XVX3285012 [ 186 XVX1880243
+
+Name: BHOLA Name: SHOKIN KHAN Name: SANTOSH KUMAR SINGH
+
+Father's Name: RAGHU NATH Father's Name : MANGLU KHAN Father's Name : RAMBAHADUR SINGH
+
+House Number > KH-NO13/23. House Number: KH NO- 50/2- GF | House Number: KH. NO. 50/5,
+
+Age: 26 Sex: MALE Photo is Age: 33 Sex: MALE Photois || Age: 39 Sex: MALE Photo is
+Available Available Available
+
+[ 187] XVX2749462 188 XVX2556553 [ 189 XVX2515419
+
+Name: KAPIL KUMAR Name: ABHIMANYU Name: BABAN PANDEY
+
+Father's Name: DHRUV SINGH Father's Name : SHIV KISHORE Father's Name : DASHRATH PANDEY
+
+House Number : KH.NO. 838 GROUND House Number > KHNO-50/12 | House Number: KHNO-241
+
+FLOOR Photo is Age: 29 Sex: MALE Photois || Age: 61 Sex: MALE Photo is
+
+Age: 23 Sex: MALE Available Available Available
+
+| 190 | XVX2833739 19 XVX2837334 | 192 XVX2610599
+
+Name : Himanshu Name: vickey roy Name = JHALAK BAHADUR
+
+Father's Name: Rattan Kumar Mother's Name : ras bihari rai Father's Name - DHADI RAM
+
+House Number : Khasra no. 50/11 House Number : Khasra no-1155 . House Number = N-26
+
+Age: 22 Sex: MALE Photo is Age: 23 Sex: MALE Photo is Age: 52 Sex: MALE Photo is
+Available Available Available
+
+| 193 | XVX2495538 194 XVX2237956 | 195 XVX2158375
+
+Name: RAJESH KUMAR Name: SHRAWAN GUPTA Name: KANHAIYA TIWARI
+
+Father's Name: RAJ KUMAR RAY Father's Name : RAMA KALEWAR Father's Name : JAGANNATH TIWARI
+
+House Number: N-28 GUPTA ; House Number > PLOT N 270
+
+Age: 37 Sex: MALE Photo is House Number: N-43/274 Photois || Age: 49 Sex: MALE Photo is
+Available Age: 29 Sex: MALE Available Available
+
+| XVX2510659 7] XVX2503240 XVX2673530
+
+Name: RAJWATI Name: RAJABAHADUR, Name: PRASHANT
+
+Husband's Name : NARENDER KUMAR Father's Name: RAM SVARUP. Father's Name: BALWAN SINGH
+
+House Number > PLOTNO134 House Number : RZ-B-1/78 ; House Number: RZ-104
+
+Age: 38 Sex: FEMALE Photo is Age: 46 Sex: MALE Photo is Age: 28 Sex: MALE Photo is
+Available Available Available
+
+[ $199 | XVX2616448 200 XVX2760908 [ 201 XVX2235919
+
+Name: SANGEETA JHA Name: BISHAMBER DUTT GAUR Name: SAVITA BAl
+
+Husband's Name 5 (Duar Father's Name : TIKA RAM Husband's Name: HAR! LAL
+
+House Numbgry = House Number: T-27 House Number: T-247
+
+Age: : (ALE Photo is Age: 53 Sex: MALE Photo is Age: 39 Sex: FEMALE Photo is
+Available Available Available
+
+[ 202 | XVX2234894 203 XVX2505402 204 XVX2194644
+
+Name: POONAM Name: DHANIRAM Name: RAM DEEN
+
+Husband's Name : RAHUL SINGH Father's Name : SHRIPAL Father's Name: TEJ TAM
+
+House Number: T-TS773 House Number: TIKRIKHURD House Number: V67
+
+Age: 27 Sex: FEMALE Photo is Age: 50 Sex: MALE Photo is Age: 52 Sex: MALE Photo is
+Available Available Available
+
+[ 205] XVX2609302 206 XVX2596699 [ 207 XVX2607604
+
+Name: BABITA Name: SUNITA RAI Name: ROHIT MAHAJAN
+
+Husband's Name : RAKESH KUMAR Father's Name : GOPESH RAI Father's Name - RAMPAL MAHAJAN
+
+House Number: Wz-58 House Number: 2-69 House Number: 2-96
+
+Age: 45 Sex: FEMALE Photo is Age: 26 Sex: FEMALE Photo is Age: 37 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022 Date of Publication:-05-01-2022 Total Pages 39 - Page 9
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+
+Section No and Name : 2-KOTLA GALI ,VILLAGE LAMPUR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ 208 | XVX0000240 208 JDJ1447531 210 XVX0000265
+
+Name: RAMESH CHAND Name: DEEPAK KUMAR Name: PAWAN KUMAR
+
+Father's Name: KUNDAN LAL Father's Name : JAl PARKASH Father's Name: JAI PARKASH
+
+House Number: 2 House Number: 2 House Number: 2
+
+Age: 48 Sex: MALE Photo is Age: 35 Sex: MALE Photo is Age: 33 Sex: MALE Photo is
+Available Available Available
+
+[ #211 ] XVX2647377 212 JDJ1031459 [ 213 XVX2031987
+
+Name: DIVYA RANI Name: NITESH SAINI Name: SWAYAM SIDDHA KAR
+
+Husband's Name: DEEPAK KUMAR Father's Name : ASHOK SAINI Father's Name: SATYAKAM KAR
+
+House Number: 2 House Number: 10 House Number: 10A/102
+
+Age: 26 Sex: FEMALE Photo is Age: 36 Sex: MALE Photois || Age: 60 Sex: MALE Photo is
+Available Available Available
+
+[ 214 | XVX0000893 215 XVX0000349 [ 216 XVX2965390
+
+Name: VISHU BHARAL Name: CHANDRO DEVI Name: BHOOP SINGH
+
+Father's Name: YASHPAL BHARAL Husband's Name: JASWANT Father's Name: JASWANT
+
+House Number: 13 House Number: 17 House Number: 17
+
+Age: 35 Sex: MALE Photo is Age: 86 Sex: FEMALE Photois || Age: 61 Sex: MALE Photo is
+Available Available Available
+
+| 27 | XVX0000364 218 XVX0000273 | 219 XVX2070324
+
+Name: PUSHPA SAINI Name: SACHDANAND Name: PRIYANKA SAINI
+
+Husband's Name : BHOOP SINGH Father's Name : SUDRASHAN Father's Name : BHUP SINGH SAINI
+
+House Number: 17 House Number: 17 House Number: 17
+
+Age: 56 Sex: FEMALE Photo is Age: 40 Sex: MALE Photo is Age: 31 Sex: FEMALE Photo is
+Available Available Available
+
+| 220 | XVX2070340 221 XVX2070332 | 222 XVX2284924
+
+Name: DINESH SAINI Name: RAHUL SAINI Name: TESHA MUL HAQ
+
+Father's Name: BHOOP SINGH SAINI Father's Name : BHOOP SINGH SAINI Father's Name : ABDUR RAJIQ
+
+House Number: 17 House Number: 17 House Number: 17/8
+
+Age: 30 Sex: MALE Photo is Age: 29 Sex: MALE Photois || Age: 32 Sex: MALE Photo is
+Available Available Available
+
+L223] XVX0000323 [224] xVvx0000448 L225] JDJ1447663
+
+Name: POONAM Name: RAVI PRAKASH KAUSHAL Name > ROHIT
+
+Husband's Name: KAMAL Father's Name: SHRI RAM KAUSHAL Father's Name: RAVI PARKASH
+
+House Number: 19 House Number: 20 House Number: 20
+
+Age: 42 Sex: FEMALE Photo is Age: 63 Sex: MALE Photo is Age: 33 Sex: MALE Photo is
+Available Available Available
+
+226 JDJ1434109 227 XVX2162484 [ 226 XVX0000380
+
+Name: RANKIT KAUSHAL Name: BHARTI Name: VIJENDER SINGH
+
+Father's Name: RAVI PARKASH Husband's Name - RAHUL KAUSHAL Father's Name: RANSINGH
+
+House Number: 20 House Number: 20 House Number: 20A
+
+Age: 32 Sex: MALE Photo is Age: 28 Sex: FEMALE Photo is Age: 58 Sex: MALE Photo is
+Available Available Available
+
+L229] XVX0000398 [230] XVX1467802 L231] JDJ1030998
+
+Name: JAGWANT|I Name: POOJA Name: AMIT KR
+
+Husband's Name : VIJENDER SINGH Husband's Name: AMIT KUMAR Father's Name: SATY PRAKASH
+
+House Number: 20A House Number: 20-A House Number: 20-A
+
+Age: 54 Sex: FEMALE Photo is Age: 37 Sex: FEMALE Photo is Age: 35 Sex: MALE Photo is
+Available Available Available
+
+232 XVX1914181 233 XVX2064516 [ 234 XVX0000695
+
+Name: ANSU Name: ASHISH Name: JAl BHAGWAN
+
+Father's Name: BUJENDER Father's Name: SATYA PARKASH Father's Name: CHOTE LAL
+
+House Number: 20-A House Number: 20-A House Number: 21
+
+Age: 29 Sex: FEMALE Photo is Age: 25 Sex: MALE Photo is Age: 78 Sex: MALE Photo is
+Available Available Available
+
+[ 235 | XVX0000703 236 JDJ0788224 [ 237 JDJ0798330
+
+Name: FOOLWATI Name: RAKESH Name: KAMAL SHARMA
+
+Husband's Name : JAl BHAGWAN Father's Name : JAl BHAGWAN Father's Name: VIJJAY KUMAR.
+
+House Number : 24 House Number : 21 House Number = 24
+
+Age: 75 Sex: FEMALE Photo is Age: 50 Sex: MALE Photois || Age: 45 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022 Date of Publication:-05-01-2022 Total Pages 39 - Page 10
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+
+Section No and Name : 2-KOTLA GALI ,VILLAGE LAMPUR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Le] Josors7266 = [L_2] JDJ1031145 240 JDJ1031095
+
+Name: SHARWAN KUMAR Name: GOPAL KAUSHAL Name: VIMAL SHARMA
+
+Father's Name: SHRIJAl BHAGWAN Father's Name: VIJAY KAUSHAL Father's Name: VIJJAY KUMAR.
+
+House Number: 21 House Number : 214 House Number: 24
+
+Age: 41 Sex: MALE Photo is Age: 40 Sex: MALE Photo is Age: 39 Sex: MALE Photo is
+Available Available Available
+
+| JDJO788232 [22] xvx0000414 XVX0000430
+
+Name: PUSHPA Name: ANNU Name: SANTOSH
+
+Husband's Name: RAKESH Husband's Name: SHARWAN KUMAR Husband's Name: SATY PRAKASH
+
+House Number: 21 House Number: 21 ; House Number: 22
+
+Age: 39 Sex: FEMALE Photo is Age: 36 Sex: FEMALE Photois || Age: 59 Sex: FEMALE Photo is
+Available Available Available
+
+[ 248 | XVX0000539 245 XVX0000547 [ 246 JDJ0785212
+
+Name: SUKHBIR SINGH Name: SUNDERI Name: URMILA SAINI
+
+Father's Name: RAM SAROOP Husband's Name : SUKHBIR SINGH Husband's Name : MUKESH SAINI
+
+House Number: 23 House Number: 23 ; House Number: 23
+
+Age: 72 Sex: MALE Photo is Age: 68 Sex: FEMALE Photois || Age: 47 Sex: FEMALE Photo is
+Available Available Available
+
+| 247 | XVX0000562 248 JDJ0790386 | 249 XVX1467810
+
+Name : MUKESH SAINI Name: RAKESH SAINI Name = RANJIT SAINI
+
+Father's Name: SUKHBIR SINGH Father's Name : SUKHBIR SINGH Father's Name: JUNGI RAM
+
+House Number: 23 House Number: 23 ; House Number: 23
+
+Age: 46 Sex: MALE Photo is Age: 42 Sex: MALE Photo is Age: 38 Sex: MALE Photo is
+Available Available Available
+
+| 250 | XVX1467628 251 XVX0000463 | 252 XVX2965424
+
+Name : MADHU BALA Name: OM PRAKASH Name: SHEELA
+
+Husband's Name: RAKESH KUMAR Father's Name : MANOHAR LAL Husband's Name: OM PRAKASH
+
+House Number: 23 House Number: 25 ; House Number: 26
+
+Age: 34 Sex: FEMALE Photo is Age: 72 Sex: MALE Photois || Age: 57 Sex: FEMALE Photo is
+Available Available Available
+
+L253] XVX1521129 [254] XVX0000513 [L255] XVX0000497
+
+Name: AJAY Name: POOJA Name: SUNIL KUMAR SAINI
+
+Father's Name: OM PRAKASH Husband's Name: AJAY Father's Name: OM PRAKASH
+
+House Number : 25 House Number: 25. House Number: 25/26
+
+Age: 40 Sex: MALE Photo is Age: 39 Sex: FEMALE Photo is Age: 46 Sex: MALE Photo is
+Available Available Available
+
+256 XVX0000489 257 XVX0000281 [ 258 XVX2965374
+
+Name: BIMLA SAINI Name: DESH RAJ Name : MUNNI DEVI
+
+Husband's Name: SUNIL KUMAR SAINI Father's Name : MANOHAR LAL Husband's Name: DES RAJ
+
+House Number : 25/26 House Number: 26. House Number: 26
+
+Age: 43 Sex: FEMALE Photo is Age: 67 Sex: MALE Photo is Age: 59 Sex: FEMALE Photo is
+Available Available Available
+
+L259] JDJ1401538 260 JDJO781674 L257] JDJO790378
+
+Name: GULAB SINGH Name: AMIT Name: ASHA RANI
+
+Father's Name: RAM PHAL Father's Name : DESH RAJ Father's Name: SUKHBIR
+
+House Number: 26 House Number : 26 House Number: 26
+
+Age: 43 Sex: MALE Photo is Age: 40 Sex: MALE Photo is Age: 39 Sex: FEMALE Photo is
+Available Available Available
+
+262 JDJ1401546 263 XVX1983798 [ 264 XVX0000570
+
+Name: NISHA Name: MEENA Name: BHAVNA
+
+Husband's Name : GULAB SINGH Husband's Name: AMIT SAINI Father's Name : DESH RAJ SAINI
+
+House Number: 26 House Number : 26 House Number: 26
+
+Age: 39 Sex: FEMALE Photo is Age: 36 Sex: FEMALE Photo is Age: 35 Sex: FEMALE Photo is
+Available Available Available
+
+[ 265 | XVX1467836 266 XVX1467844 [ 207 XVX1467869
+
+Name: MAHENDER KUMAR Name: RAJESH Name: REKHA
+
+Father's Name : LAXMI! NARAYAN Father's Name : MAHENDER KUMAR Husband's Name: RAJESH
+
+House Number: 27 House Number: 27 ; House Number: 27
+
+Age: 78 Sex: MALE Photo is Age: 52 Sex: MALE Photois || Age: 49 Sex: FEMALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022 Date of Publication:-05-01-2022 Total Pages 39 - Page 11
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 2-KOTLA GALI ,VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+268 XVX1467877 269 XVX1467851 270 XVX0000307
+Name: POOJA Name: RAJNISH Name: OM PRAKASH SAINI
+Husband's Name : RAJNISH Father's Name : MAHENDER KUMAR Father's Name: RAM LAL
+House Number: 27 House Number: 27 House Number: 28
+Age: 38 Sex: FEMALE Photo is Age: 34 Sex: MALE Photo is Age: 64 Sex: MALE Photo is
+Available Available Available
+an XVX0000588 272 XVX0000596 273 XVX0000315
+Name: VAY Name: SARDA Name: MEENA
+Father's Name: RAM SARUP Husband's Name: VIJAY Husband's Name: OM PRAKASH
+House Number : 28 House Number : 28 . House Number: 28
+Age: 61 Sex: MALE Photo is Age: 53 Sex: FEMALE Photois || Age: 53 Sex: FEMALE Photo is
+Available Available Available
+are XVX2070423 275 JDJ0780494 276 XVX0000604
+Name: PARVEEN SAINI Name: DEVENDER Name: SHEETAL
+Husband's Name : DEVENDER SAINI Father's Name : OM PRAKASH Husband's Name : MANOJ KUMAR.
+House Number : 28 House Number : 28 . House Number: 28
+Age: 38 Sex: FEMALE Photo is Age: 38 Sex: MALE Photois || Age: 37 Sex: FEMALE Photo is
+Available Available Available
+2r7 JDJ1031715 278 XVX0000331 279 JDJ1462068
+Name: MANOJ KUMAR Name: RINA Name: VIPIN SAINI
+Father's Name: VIJAY KUMAR Father's Name : OM PRAKASH Father's Name : OM PARKASH SAINI
+House Number : 28 House Number : 28 House Number: 28
+Age: 36 Sex: MALE Photo is Age: 34 Sex: FEMALE Photo is Age: 33 Sex: MALE Photo is
+Available Available Available
+280 XVX0000612 281 XVX0000257 282 XVX1915171
+Name: NARESH KUMAR Name: RADHA Name: ANKUR
+Father's Name: KUNDAN LAL Husband's Name: RAMESH CHAND Father's Name : NARESH KUMAR
+House Number : 29 House Number: 29 . House Number: 29
+Age: 55 Sex: MALE Photo is Age: 43 Sex: FEMALE Photois || Age: 29 Sex: MALE Photo is
+Available Available Available
+283 XVX2070217 284 XVX2478442 285 XVX2478491
+Name: MANISH SAINI Name: DOLLY SAINI Name: ARUN SAINI
+Father's Name: RAMESH SAINI Father's Name : NARESH KUMAR Father's Name - RAMESH CHAND
+House Number : 29 House Number: 29 House Number: 29
+Age: 28 Sex: MALE Photo is Age: 27 Sex: FEMALE Photo is Age: 26 Sex: MALE Photo is
+Available Available Available
+286 XVX2918340 287 XVX2965457 288 XVX0000633
+Name: Rahul Saini Name: SHRI PAL Name: BEERMATI
+Father's Name: Naresh Kumar Saini Father's Name: PIRTHI SINGH Husband's Name : SHRI PAL
+House Number : 29 House Number: 30 House Number: 30
+Age: 21 Sex: MALE Photo is Age: 69 Sex: MALE Photo is Age: 61 Sex: FEMALE Photo is
+Available Available Available
+289 XVX1989754 290 XVX2478153 291 XVX2478112
+Name: MOHIT SAINI Name: PATASO Name: PRAMOD KUMAR
+Father's Name : ROSHAN LAL SAINI Husband's Name > KRISHAN LAL Father's Name - KRISHAN LAL
+House Number: 34 House Number: 32 House Number: 32
+Age: 29 Sex: MALE Photo is Age: 64 Sex: FEMALE Photo is Age: 47 Sex: MALE Photo is
+Available Available Available
+292 JDJO781088 293 XVX2854511 294 XVX00007 11
+Name: RANI Name: ATUL KUMAR Name: PAWAN
+Husband's Name : PARMOD KUMAR Father's Name : PARMOD KUMAR Father's Name: JAl BHAGWAN
+House Number: 32 House Number: 32 House Number: 33
+Age: 41 Sex: FEMALE Photo is Age: 21 Sex: MALE Photo is Age: 53 Sex: MALE Photo is
+Available Available Available
+295 JDJ0785220 296 XVX2965473 297 XVX0000745
+Name: USHA Name: VISHVNATH YADAV Name: NIRMALA DEVI
+Husband's Name: PAWAN Father's Name : KASHI NATH Husband's Name: SHRI KISHAN
+House Number: 33 House Number: 33A . House Number: 33A
+Age: 45 Sex: FEMALE Photo is Age: 66 Sex: MALE Photois || Age: 64 Sex: FEMALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 12
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 2-KOTLA GALI ,VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+298 XVX0000752 299 JDJ1030949 300 JDJO778662
+Name: RAJ KUMAR Name: SHASHI BALA Name: PANKAJ KUMAR
+Father's Name : SHRIKISHAN Husband's Name : RAJ KUMAR Father's Name: SHRI KISHAN
+House Number: 334 House Number: 33A House Number: 33A
+Age: 45 Sex: MALE Photo is Age: 43 Sex: FEMALE Photo is Age: 43 Sex: MALE Photo is
+Available Available Available
+301 JDJ1040120 302 JDJ0781658 303 XVX0000760
+Name: LALIT KUMAR Name: SHRIRAM YADAV Name: MAMTA RANI
+Father's Name: SHRI KISHAN Father's Name : VISHVNATH YADAV Husband's Name: PANKAJ
+House Number: 334 House Number: 33A . House Number: 33.4
+Age: 40 Sex: MALE Photo is Age: 38 Sex: MALE Photois || Age: 37 Sex: FEMALE Photo is
+Available Available Available
+304 XVX0000786 305 XVX0000778 306 XVX1467893
+Name: SHAKUNTLA Name: KAUSHLAYA Name: DEV VANTI
+Father's Name: VISHWA NATH Husband's Name : SHRIRAM YADAV Father's Name: VISHWANATH YADAV
+House Number: 334 House Number: 33A . House Number: 33-A
+Age: 34 Sex: FEMALE Photo is Age: 34 Sex: FEMALE Photois || Age: 32 Sex: FEMALE Photo is
+Available Available Available
+307 XVX1983807 308 XVX1932259 309 XVX0000802
+Name: LALITA Name: LALIT KUMAR Name: KAMLESH
+Husband's Name : LALIT Father's Name : KISHAN Husband's Name: ROSHAN LAL
+House Number: 33-A House Number: 33A House Number: 34
+Age: 31 Sex: FEMALE Photo is Age: 31 Sex: MALE Photo is Age: 54 Sex: FEMALE Photo is
+Available Available Available
+310 XVX0000794 aul XVX2781003 312 XVX2965499
+Name: ROSHAN LAL Name: DEEPANSHU SAINI Name: RAMESH CHANDER
+Father's Name: RAM SINGH Father's Name : ROSHAN LAL SAINI Father's Name: SUNDER LAL
+House Number: 34 House Number: 34 . House Number: 34A
+Age: 51 Sex: MALE Photo is Age: 25 Sex: MALE Photois || Age: 48 Sex: MALE Photo is
+Available Available Available
+313 XVX2965507 314 JDJ1030634 315 JDJ1030618
+Name: SHEELA WAT Name: RAJ KUMAR, Name: SAVITA
+Husband's Name : RAMESH CHAND Father's Name : DHARAM PAL Father's Name - DHARAM PAL
+House Number: 34A House Number: 38 House Number: 38
+Age: 45 Sex: FEMALE Photo is Age: 37 Sex: MALE Photo is Age: 35 Sex: FEMALE Photo is
+Available Available Available
+316 XVX2302825 37 XVX2732907 318 XVX2595056
+Name: AJAY Name: PANKAJ KUMAR Name: ANAND SHARMA
+Father's Name : UMED SINGH Father's Name : UMED SINGH Father's Name - DHARAMPAL SHARMA
+House Number: 44 House Number: 44 House Number: 46
+Age: 27 Sex: MALE Photo is Age: 26 Sex: MALE Photo is Age: 27 Sex: MALE Photo is
+Available Available Available
+319 JBJ0752980 320 JDJ1030741 321 XVX2750882
+Name: ANKUR KAUSHAL Name: AMIT Name: RESHMA BEGUM
+Father's Name: D N KAUSHAL Father's Name : HARI KISHAN Husband's Name : GAYYOOR
+House Number: 52 House Number: 55 QURESHI
+Age: 39 Sex: MALE Photo is Age: 35 Sex: MALE Photo is House Number: 69/1 Photo is
+Available Available Age: 33 Sex: FEMALE Available
+322 XVX2550564 323 JDJ1030931 324 JDJ1030832
+Name: ANURADHA Name: SATY PRAKASH Name > NEHA
+Father's Name : GURMEET KUMAR Father's Name : SHIV NARAYAN Father's Name - GORDHAN
+House Number: 78 House Number: 8&2 House Number: 63
+Age: 30 Sex: FEMALE Photo is Age: 37 Sex: MALE Photo is Age: 37 Sex: FEMALE Photo is
+Available Available Available
+[ 325 | JDJ1030840 326 XVX0000877 327 JDJ1434695
+Name: KAPIL Name: LEKHRAJ Name: SANTOSH
+Father's Name : GORDHAN Father's Name : SHIV NARAYAN Husband's Name: RAMESH
+House Number: 83 House Number: 84 . House Number: 87-A
+Age: 35 Sex: MALE Photo is Age: 33 Sex: MALE Photois || Age: 39 Sex: FEMALE Photo is
+Available Available Available
+Age as on 01.01.2022 Date of Publication:-05-01-2022 Total Pages 39 - Page 13
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+y y
+Section No and Name : 2-KOTLA GALI ,VILLAGE LAMPUR
+328 JDJ1030733 329 XVX1975309 [ 330 JDJ1030873
+Name: PAWAN Name: JYOTI SAINI Name: HUKAM SINGH
+Father's Name : HARI SINGH Husband's Name: AMIT SAINI Father's Name : SOMPAL
+House Number: 87-B House Number: 103 House Number: 104
+Age: 35 Sex: MALE Photo is Age: 35 Sex: FEMALE Photo is Age: 38 Sex: MALE Photo is
+Available Available Available
+331 JDJ1031418 332 XVX2085876 333 JDJ1031210
+Name: SANDEEP Name: REKHA Name: SUMIT SAINI
+Father's Name: RAJENDER SINGH Husband's Name: SANDEEP SAINI Father's Name: BALKISHAN
+House Number: 105 House Number: 105 . House Number: 111
+Age: 35 Sex: MALE Photo is Age: 31 Sex: FEMALE Photois || Age: 35 Sex: MALE Photo is
+Available Available Available
+334 XVX2070357 335 XVX2541225 336 XVX2391456
+Name: SEEMA SAINI Name: MD SUBHAN NADAF Name: RAVINDER KUMAR
+Husband's Name: SUMIT SAINI Father's Name : MD RAJA NADAF Father's Name: ISHWAR SINGH
+House Number: 111 House Number: 155-VILLAG | House Number: 159
+Age: 28 Sex: FEMALE Photo is Age: 49 Sex: MALE Photois || Age: 29 Sex: MALE Photo is
+Available Available Available
+337 XVX2506178 338 XVX2301488 339 XVX3327061
+Name: MEENAKSHI Name: ANNU DEVI Name: NAVNEET
+Husband's Name : ROHIT KUMAR Husband's Name: ROHIT KUMAR Father's Name : HARI KISHAN
+House Number: 174 House Number: C-2/1081 | House Number: FLAT NO 41 GROUND
+Age: 37 Sex: FEMALE Photo is Age: 35 Sex: FEMALE Photo is FLOOR Photo is
+Available Available || Age: 42 Sex: MALE Available
+340 XVX2862126 341 XVX3361292 342 XVX2556446
+Name: JYOTI Name: ABHISHEK Name: SUSHILA KUMARI
+Husband's Name: PARVEEN KUMAR Father's Name : ANIL KUMAR Husband's Name: BENDER
+House Number: HOUSE NO 163 House Number : KH NO 31/15 . LATHWAL
+Age: 27 Sex: FEMALE Photo is Age: 24 Sex: MALE Photo is House Number: KHNO-87/1/ Photo is
+Available Available Age: 41 Sex: FEMALE Available
+343 XVX2556371 344 XVX3361201 [ 345 XVX2751088
+Name: BJENDER LATHWAL Name: Bhagat Singh Name: KANIKA KUNCHHAL
+Father's Name: HAWA SINGH Father's Name: Sube Singh Husband's Name: DARPAN
+House Number: KHNO87/1/2 House Number > KHASRA NO 39/20 . KUNCHHAL
+Age: 47 Sex: MALE Photo is Age: 33 Sex: MALE Photo is House Number - NOGKH37/6/2 Photo is
+Available Available Age: 32 Sex: FEMALE Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 14
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+Section No and Name : 3-RAMLILA GROUND, VILLAGE LAMPUR
+L348] xvxoooiz97 = [L__47] xvx3305007 [L___48] XVX0000935
+Name: LAXMI CHAND Name: KAJAL KUMARI Name: RAM KUMAR
+Father's Name > NANHE RAM Father's Name : JAY PRAKASH Father's Name: SIS RAM
+House Number: 2 House Number: 2 KH-33/9/2, JYOTI House Number: 3
+Age: 81 Sex: MALE Photo is NAGAR Photo is Age: 58 Sex: MALE Photo is
+Available Age: 21 Sex: FEMALE Available Available
+349 XVX0000968 350 XVX0000950 351 XVX0000976
+Name: CHAMAN LAL Name: MEENA RANI Name: LAKHPAT
+Father's Name : HARI RAM Father's Name : HARI RAM Father's Name : HARI RAM
+House Number: 3 House Number : 3 . House Number: 3
+Age: 35 Sex: MALE Photo is Age: 34 Sex: FEMALE Photois || Age: 33 Sex: MALE Photo is
+Available Available Available
+352 XVX0000984 353 XVX0000992 354 JDJ0794818
+Name: DHARAM PAL Name: SUMITRA DEVI Name: KAUSHALYA
+Father's Name : CHET RAM Husband's Name : DHARAM PAL Husband's Name: SANT RAM
+House Number: 4 House Number: 4 . House Number: 4A
+Age: 70 Sex: MALE Photo is Age: 62 Sex: FEMALE Photois || Age: 60 Sex: FEMALE Photo is
+Available Available Available
+355 XVX3306065 356 XVX0001107 357 XVX0001 156
+Name: PAWAN DEVI Name: RATAN SINGH Name: VINOD KUMAR
+Husband's Name: JIVAS PASWAN Father's Name : DHAREM PAL Father's Name - DALCHAND
+House Number: 4 KH-33/9/2, JYOTI House Number: 5 House Number: 6
+NAGAR Photo is Age: 46 Sex: MALE Photo is Age: 49 Sex: MALE Photo is
+Age: 46 Sex: FEMALE Available Available Available
+358 XVX0001198 359 XVX3306008 360 XVX3305984
+Name: POONAM Name: SANDEEP Name: SONIA
+Husband's Name: SUNIL KUMAR Father's Name: BRIJPAL Husband's Name: SANDEEP
+House Number: 6 House Number: 7 KH-33/10/2, JYOTI | House Number: 7 KH-33/10/2, JYOTI
+Age: 40 Sex: FEMALE Photo is | | NAGAR Photo is || NAGAR Photo is
+Available Age: 33 Sex: MALE Available Age: 32 Sex: FEMALE Available
+361 XVX0001222 362 XVX2965580 363 XVX2965598
+Name: ASHOK KUMAR SAINI Name: RAM KUMAR Name: SANTOSH
+Father's Name: BAL KISHAN Father's Name : BAL KISHAN Husband's Name : ASHOK
+House Number: 10 House Number: 10 House Number: 10
+Age: 66 Sex: MALE Photo is Age: 54 Sex: MALE Photo is Age: 49 Sex: FEMALE Photo is
+Available Available Available
+364 XVX2965606 365 XVX0001263 366 JDJ1031236
+Name: PUSHPA Name: RAJESH Name: ANITA SAINI
+Husband's Name : RAM KUMAR Father's Name : BAL KISHAN Husband's Name: RAJESH
+House Number: 10 House Number: 10 House Number: 10
+Age: 48 Sex: FEMALE Photo is Age: 45 Sex: MALE Photo is Age: 44 Sex: FEMALE Photo is
+Available Available Available
+367 XVX0001289 368 XVX0001305 368 XVX3306107
+Name: DINESH SAINI Name: VINOD KUMAR Name: POONAM SHARMA
+Father's Name: ASHOK KUMAR SAINI Father's Name : LAXMI CHAND Husband's Name : PAWAN KUMAR
+House Number: 10 House Number: 11 SHRMA
+Age: 35 Sex: MALE Photo is Age: 45 Sex: MALE Photo is House Number: 14 KH-33/8, JYOTI Photo is
+Available Available NAGAR Available
+Age: 34 Sex: FEMALE
+370 XVX29656 14 an XVX0001347 372 XVX3303880
+Name: NARESH KUMAR Name: RAHUL SANI Name: MAHIPAL SINGH
+Father's Name > NANHE RAM Father's Name : NARESH KUMAR Father's Name : HORI LAL
+House Number: 12 House Number: 12 House Number: 14 KH-39/9/2, JYOTI
+Age: 59 Sex: MALE Photo is Age: 32 Sex: MALE Photo is NAGAR Photo is
+Available Available Age: 38 Sex: MALE Available
+373 XVX0001446 374 XVX0001461 375 XVX0001479
+Name: JILE SINGH Name: VIPAN Name: SACHIN
+Father's Name: GUR DYAL Father's Name: JILE SINGH Father's Name: JILE SINGH
+House Number: 15 House Number: 15 . House Number: 15
+Age: 58 Sex: MALE Photo is Age: 36 Sex: MALE Photo is || Age: 34 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 15
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+Section No and Name : 3-RAMLILA GROUND, VILLAGE LAMPUR
+376 XVX1854389 37 XVX2289626 378 XVX3305059
+Name: SUSHMA Name: SUSHMA Name: KISHORE PRASAD
+Husband's Name : VIPIN Husband's Name: VIPAN SAINI Father's Name: ITWAR PRASAD
+House Number: 15 House Number: 15 House Number: 15 KH-33/6, JYOTI
+Age: 32 Sex: FEMALE Photo is Age: 32 Sex: FEMALE Photo is NAGAR Photo is
+Available Available Age: 54 Sex: MALE Available
+379 XVX3306172 380 XVX2965689 381 XVX0001495
+Name: PRAMILA DEVI Name: SUDERSHAN Name: RAJ RANI
+Husband's Name: KISHOR PRASAD Father's Name : MAAN SINGH Husband's Name : SUDERSHAN
+House Number: 15 KH-33/9/2, JYOTI House Number: 16 | House Number: 16
+NAGAR Photo is Age: 70 Sex: MALE Photois || Age: 59 Sex: FEMALE Photo is
+Age: 51 Sex: FEMALE Available Available Available
+382 XVX0001503 383 XVX0001511 [ 384 XVX0001529
+Name: MANOJ KAUSHAL Name: BABITA Name: PANKAJ SAINI
+Father's Name : CHANDER PARKASH Husband's Name : MANOJ KAUSHAL Father's Name: SUDERSHAN
+KAUSHAL House Number: 16 . House Number: 17
+House Number: 16 Photo is Age: 48 Sex: FEMALE Photois || Age: 45 Sex: MALE Photo is
+Age: 51 Sex: MALE Available Available Available
+385 XVX2412087 386 XVX0001560 387 XVX3312881
+Name: SAVITA SAINI Name: REEMA Name: BRIJ PAL
+Husband's Name : PANKAJ SAINI Father's Name: TEJ PAL Father's Name = MUKUL LAL
+House Number: 17 House Number: 17 | House Number: 17B KH-33/9/2JYOT|
+Age: 37 Sex: FEMALE Photo is Age: 33 Sex: FEMALE Photo is NAGAR Photo is
+Available Available || Age: 50 Sex: MALE Available
+388 XVX0001578 389 XVX0001594 390 XVX0001602
+Name: JAl PARKASH SAINI Name: RAKESH Name: SARITA
+Father's Name: RAM CHANDER Father's Name : JAI PARKASH SAINI Husband's Name: RAKESH
+House Number: 18 House Number: 18 . House Number: 18
+Age: 73 Sex: MALE Photo is Age: 38 Sex: MALE Photois || Age: 35 Sex: FEMALE Photo is
+Available Available Available
+391 XVX2070365 392 XVX2704797 393 XVX27 17782
+Name: PREETI SAINI Name: ABHISHEK SAINI Name: PRIKSHIT SAINI
+Husband's Name : RAM KUMAR SAINI Father's Name : RAMKUMAR SAINI Father's Name - RAJESH SAINI
+House Number: 18 House Number: 18 ; House Number: 18
+Age: 31 Sex: FEMALE Photo is Age: 24 Sex: MALE Photo is Age: 24 Sex: MALE Photo is
+Available Available Available
+394 XVX3306206 395 XVX3305042 396 JDJ1030956
+Name: SAROJ Name: USHA KUMARI Name: RAHUL KAUSHAL
+Husband's Name : RAM CHANDRA Father's Name: SITARAM Father's Name: RAVI PRAKASH
+House Number: 18 KH-33/9/2, JYOT| House Number: 19 KH-33/9/2, JYOTI ; KAUSHAL
+NAGAR Photois || NAGAR Photo is | | House Number - 20 Photo is
+Age: 34 Sex: FEMALE Available Age: 25 Sex: FEMALE Available Age: 35 Sex: MALE Available
+397 XVX3306123 398 XVX3305075 398 UZQ0703025
+Name: ANITA Name: MOHAMMAD SAFEEK Name: PAVAN DEVI
+Husband's Name : RANJAN GUPTA Father's Name : FIDHA HUSEN Husband's Name: JAY PRAKASH
+House Number: 20 KH-33/9/2, JYOTI House Number: 23 KH-33/9/2, JYOTI House Number: 24 KH-33/6, JYOTI
+NAGAR Photo is NAGAR Photo is NAGAR Photo is
+Age: 35 Sex: FEMALE Available |] Age: 47 Sex: MALE Available || Age: 53 Sex: FEMALE Available
+400 XVX3306016 aot UZQ0703033 402 XVX2478582
+Name: JAY PRAKASH PASWAN Name: SUNIL PASWAN Name: TEJPAL SAINI
+Father's Name : BIRANCHI PASWAN Father's Name : JAY PRAKASH Father's Name - MANOHAR LAL
+House Number: 24 KH-33/6, JYOT| PASWAN House Number: 26
+NAGAR Photo is | | House Number: 24 KH-33/8 JYOTI Photo is || Age: 64 Sex: MALE Photo is
+Age: 48 Sex: MALE Available NAGAR Available Available
+Age: 35 Sex: MALE
+403 XVX2965713 404 XVX1467919 405 XVX1877603
+Name: SUNITA Name: HEMANT SAINI Name: CHETAN SAINI
+Husband's Name: TEJ PAL Father's Name: TEJPAL Father's Name: TEJPAL SINGH
+House Number: 26 House Number: 26 . House Number: 26
+Age: 62 Sex: FEMALE Photo is Age: 32 Sex: MALE Photo is || Age: 30 Sex: MALE Photo is
+Available Available Available
+Age as on 01.01.2022 Date of Publication:-05-01-2022 Total Pages 39 - Page 16
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 3-RAMLILA GROUND, VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+406 XVX3304060 407 XVX3304052 408 XVX3305141
+Name: VINOD SHAH Name: SANTOSHI DEVI Name: NIRMAL
+Father's Name: BADAN SHAH Husband's Name : BINOD SHAH Mother's Name: RAM PARYAG
+House Number: 26 KH-33/9/2, JYOT| House Number: 26 KH-33/9/2, JYOTI House Number : 30 KH-33/9/2, JYOTI
+NAGAR Photo is NAGAR Photo is NAGAR Photo IS
+Age: 40 Sex: MALE Available || Age: 39 Sex: FEMALE Available || Age: 55 Sex: MALE Available
+409 XVX3306032 410 XVX3305125 ait XVX0001636
+Name: SUDAMA CHAUDHARY Name: RANI DEVI Name: SHEELA
+Father's Name : CHANDRMA Husband's Name: SATENDAR TIWARI Husband's Name: SUNDER LAL
+CHAUDHARY House Number : 32 KH-33/9/2, JYOTI . House Number: 35
+House Number: 34 KH-33/9/2, JYOTI Photo is NAGAR Photois || Age: 72 Sex: FEMALE Photo is
+NAGAR Available Age: 43 Sex: FEMALE Available Available
+Age: 49 Sex: MALE
+412 XVX0001 164 413 JDJ1030626 aia XVX0001172
+Name: ANAND Name: RAJNI KUMARI Name: RASHMI DEVI
+Father's Name: DALCHAND Husband's Name : ANAND KUMAR Husband's Name: VINOD KUMAR
+House Number: 35 House Number: 35 . House Number: 35
+Age: 52 Sex: MALE Photo is Age: 49 Sex: FEMALE Photois || Age: 47 Sex: FEMALE Photo is
+Available Available Available
+ais XVX2633385 416 JDJ1030964 av XVX0001644
+Name: SUNIL KUMAR Name: MANISH KUMAR Name: ANISH SHARMA
+Father's Name: DAL CHAND Father's Name : SUNDER LAL Father's Name: SUNDER LAL
+House Number: 35 House Number: 35 . House Number: 35
+Age: 45 Sex: MALE Photo is Age: 39 Sex: MALE Photo is Age: 34 Sex: MALE Photo is
+Available Available Available
+418 XVX1854413 419 XVX2633369 420 XVX2867323
+Name: NEERAJ Name: MOHIT KUMAR Name: PRIYANAKA
+Husband's Name : MANISH KUMAR Father's Name : ANAND KUMAR Father's Name: VINOD KUMAR
+House Number: 35 House Number: 35 . House Number: 35
+Age: 34 Sex: FEMALE Photo is Age: 26 Sex: MALE Photois || Age: 21 Sex: FEMALE Photo is
+Available Available Available
+421 XVX2965192 422 XVX0001669 [ 423 XVX0001685
+Name: GHANDGI RAM Name: SANTOSH Name: RAJIV
+Father's Name: KALI RAM Husband's Name : CHANDGI Father's Name - CHANDGI
+House Number : 36 House Number : 36 ; House Number: 36
+Age: 71 Sex: MALE Photo is Age: 68 Sex: FEMALE Photo is Age: 51 Sex: MALE Photo is
+Available Available Available
+42a XVX0001693 425 JDJ1031038 426 XVX3306214
+Name: SHASHI Name: SEEMA Name: ANITA
+Husband's Name: ANIL Husband's Name : RAJIV KUMAR Husband's Name : SONU
+House Number: 36 House Number: 36 ; House Number: 36 KH-33/9/2, JYOTI
+Age: 44 Sex: FEMALE Photo is Age: 42 Sex: FEMALE Photo is NAGAR Photo is
+Available Available || Age: 33 Sex: FEMALE Available
+427 XVX3305976 428 XVX0001065 429 XVX0001099
+Name: SONU Name: AMAR SINGH Name: NIRMAL
+Father's Name: SANT LAL Father's Name : RAM SINGH Husband's Name: RAMESH
+House Number: 36 KH-33/9/2, JYOTI House Number: 37 House Number: 37
+NAGAR Photo is Age: 70 Sex: MALE Photo is Age: 55 Sex: FEMALE Photo is
+Age: 30 Sex: MALE Available Available Available
+430 XVX2965200 431 JDJ0788091 432 XVX0001123
+Name: SHAKUNTLA Name > HEMANT KUMAR Name: TINA RANI
+Husband's Name : AMER SINGH Father's Name : AMAR SINGH Father's Name: AMAR SINGH
+House Number: 37 House Number: 37 House Number: 37
+Age: 54 Sex: FEMALE Photo is Age: 39 Sex: MALE Photo is Age: 36 Sex: FEMALE Photo is
+Available Available Available
+433 XVX2070142 434 XVX2070175 [ 435 XVX3306081
+Name: MAHENDRI Name: ATUL KUMAR Name: PRADEEP KUMAR
+Husband's Name : HEMANT KUMAR Father's Name : RAMESH KUMAR Father's Name: PITA
+House Number: 37 House Number: 37 | House Number: 37 KH-33/9/2, JYOTI
+Age: 30 Sex: FEMALE Photo is || Age: 27 Sex: MALE Photo is || NAGAR Photo is
+Available Available Age: 35 Sex: MALE Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 17
+
+ 
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 3-RAMLILA GROUND, VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ 436 | XVX3306131 437 XVX0001800 438 XVX0001008
+Name: RENU Name: KRISHNA Name: SAT PAL
+Husband's Name : PRADEEP Husband's Name: RAM KISHAN Father's Name: CHET RAM
+House Number: 37 KH-33/9/2, JYOTI House Number: 36 House Number: 36
+NAGAR Photo is Age: 69 Sex: FEMALE Photo is Age: 58 Sex: MALE Photo is
+Age: 34 Sex: FEMALE Available Available Available
+439 XVX0001016 440 XVX0001024 441 JDJO793802
+Name: SAVITRI DEVI Name: SANT LAL Name: SANTOSH
+Husband's Name: SAT PAL Father's Name : CHET RAM Husband's Name: SANT LAL
+House Number: 38 House Number : 38 . House Number: 38
+Age: 56 Sex: FEMALE Photo is Age: 51 Sex: MALE Photois || Age: 43 Sex: FEMALE Photo is
+Available Available Available
+442 JDJO0788539 443 XVX0001115 aaa XVX2633336
+Name: SANJEEV SAINI Name: BABY RANI Name: PUSHPA RANI
+Father's Name: RAM KISHAN Husband's Name: SANJAY Husband's Name: RATAN SINGH
+House Number: 38 House Number : 38 . House Number: 38
+Age: 42 Sex: MALE Photo is Age: 41 Sex: FEMALE Photois || Age: 38 Sex: FEMALE Photo is
+Available Available Available
+445 XVX0001040 446 XVX1467927 aaT XVX1967420
+Name : MOHAN Name: ved prakash Name: BHARAT BHUSHAN
+Father's Name: SATPAL Father's Name : DHARM PAL Father's Name: SATYA PAL
+House Number: 38 House Number : 38 House Number: 38
+Age: 32 Sex: MALE Photo is Age: 32 Sex: MALE Photo is Age: 30 Sex: MALE Photo is
+Available Available Available
+448 XVX2647410 449 XVX0001826 450 XVX0001834
+Name: KAJAL Name: RACHNA Name: JAGWATI
+Husband's Name : MOHAN Husband's Name: SANJEEV SAINI Husband's Name: SURAT SINGH
+House Number: 38 House Number: 38A . House Number: 39
+Age: 26 Sex: FEMALE Photo is Age: 36 Sex: FEMALE Photois || Age: 81 Sex: FEMALE Photo is
+Available Available Available
+451 XVX2965218 452 XVX2633294 [ 453 XVX0001867
+Name: RAKESH Name: KAMLESH Name: RANI
+Father's Name : SURAT SINGH Husband's Name: RAJ KUMAR Husband's Name : RAKESH
+House Number : 39 House Number : 39 ; House Number: 39
+Age: 47 Sex: MALE Photo is Age: 45 Sex: FEMALE Photo is Age: 43 Sex: FEMALE Photo is
+Available Available Available
+454 XVX0001875 455 XVX0001883 456 XVX2648806
+Name: RAJESH Name: SHEELA Name: BHARTI
+Father's Name : SURAT SINGH Husband's Name : RAJESH Husband's Name : CHAMAN LAL
+House Number : 39 House Number : 39 ; House Number: 39
+Age: 42 Sex: MALE Photo is Age: 41 Sex: FEMALE Photo is Age: 29 Sex: FEMALE Photo is
+Available Available Available
+407 XVX2956449 498 XVX0001909 459 XVX2965226
+Name: SHIVANI Name: UMED SINGH Name: SANTOSH
+Husband's Name : LAKHPAT Father's Name : RAM SINGH Husband's Name : UMED SINGH
+House Number: 39 House Number: 40 House Number: 40
+Age: 26 Sex: FEMALE Photo is Age: 61 Sex: MALE Photo is Age: 55 Sex: FEMALE Photo is
+Available Available Available
+460 XVX2965234 461 XVX0001933 #462 XVX2965242
+Name: MAYA Name: SATISH Name: RADHA
+Husband's Name: VED Father's Name : RAM SINGH Husband's Name : MANOJ KUMAR
+House Number: 40 House Number: 40 House Number: 41
+Age: 49 Sex: FEMALE Photo is Age: 44 Sex: MALE Photo is Age: 49 Sex: FEMALE Photo is
+Available Available Available
+403 XVX2736139 464 XVX2177152 465 XVX3305182
+Name: SUMIT SHARMA Name: KRISHANA Name: AKENDRA GIRI
+Father's Name: RAVI PRAKASH Husband's Name: RAM KISHAN Father's Name: SIDD! BHART]
+House Number: 41 House Number: 43. | House Number: 43 KH-33/9/2, JYOTI
+Age: 24 Sex: MALE Photo is || Age: 75 Sex: FEMALE Photo is || NAGAR Photo is
+Available Available Age: 44 Sex: MALE Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 18
+
+ 
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 3-RAMLILA GROUND, VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+466 XVX2070225 467 XVX2478278 468 XVX3304029
+Name: NAVEEN Name: MANISHA Name: JIVAS PASWAN
+Father's Name: MAYA Father's Name : VED SINGH Father's Name - BHOLA PASSWAN
+House Number: 44 House Number: 44 House Number: 44 KH-33/9/2, JYOTI
+Age: 29 Sex: MALE Photo is Age: 27 Sex: FEMALE Photo is NAGAR Photo is
+Available Available Age: 51 Sex: MALE Available
+469 XVX3305034 470 XVX3305026 an XVX3304045
+Name: ROSHAN KUMAR Name: GAUTAM PASWAN Name: BITTU PASWAN
+Father's Name: JIVASH PASWAN Father's Name : JEEVAS PASWAN Father's Name: JEEVAS PASWAN
+House Number : 44 KH-33/9/2, JYOT!I House Number: 44 KH-33/9/2, JYOTI House Number: 44 KH-33/9/2, JYOTI
+NAGAR Photo is NAGAR Photo is NAGAR Photo is
+Age: 25 Sex: MALE Available |] Age- 23 Sex: MALE Available || Age: 22 Sex: MALE Available
+are XVX3305968 473 XVX3306180 Ara XVX3306164
+Name: RAMPUKAR SAHNI Name: SUNDESHWARI DEVI Name: MEENA
+Father's Name: SARYUG SAHNI Husband's Name : RAMPUKAR SAHNI Husband's Name : SURENDRA
+House Number : 45 KH-33/5, JYOT! House Number: 45 KH-33/8/2, JYOTI House Number: 46 KH-33/8, JYOTI
+NAGAR Photo is NAGAR Photo is NAGAR Photo is
+Age: 42 Sex: MALE Available |] Age- 49 Sex: FEMALE Available || Age: 59 Sex: FEMALE Available
+475 XVX3306057 476 XVX3306198 a7 XVX3305018
+Name: ANIL Name: PUSHPA Name: AJAY PRASAD
+Father's Name: SURENDRA Husband's Name: ANIL Father's Name: SADHU MAHTO
+House Number : 46 KH-33/8, JYOT! House Number: 46 KH-33/8, JYOTI House Number: 49 KH-33/9/2, JYOTI
+NAGAR Photo is NAGAR Photo is NAGAR Photo is
+Age: 35 Sex: MALE Available || Age: 25 Sex: FEMALE Available |] Age: 44 Sex: MALE Available
+478 XVX2469938 473 XVX3306149 480 XVX3305083
+Name: GULAB SINGH Name: VIDYA WATI Name: SURENDRA
+Father's Name : MANGAT RAM Husband's Name: SHYAM SHAH Father's Name: SIPATTAR
+House Number: 50/9 House Number: 50 KH-33/8, JYOTI | House Number: 51 KH-33/9/2, JYOTI
+Age: 27 Sex: MALE Photo is NAGAR Photo is NAGAR Photo is
+Available Age: 40 Sex: FEMALE Available Age: 36 Sex: MALE Available
+481 XVX3306040 482 XVX26868065 483 XVX3306099
+Name: SANTOSH Name: VANSHIKA SAINI Name: TRIPURARI MANDAL
+Mother's Name : SURENDRA Mother's Name: ANITA SAINI Father's Name: VATESAR
+House Number: 51 KH-33/9/2, JYOT! House Number: 55 House Number: 55 KH-33/8, JYOTI
+NAGAR Photo is Age: 21 Sex: FEMALE Photo is NAGAR Photo is
+Age: 34 Sex: FEMALE Available Available || Age: 33 Sex: MALE Available
+464 XVX3303336 485 XVX3303310 486 XVX3306073
+Name: SANGEETA DEVI Jain Name: NEETU DEVI Name: VIKASH KUMAR
+Husband's Name : TRIPURARI Husband's Name: VIKASH Father's Name - BHUNESWAR RAM
+MANDAL House Number : 56/33/8, JYOTI NAGAR ; House Number : 56 KH-33/8, JYOTI
+House Number: 55 KH-33/8, JYOTI Photo is Age: 37 Sex: FEMALE Photo is NAGAR Photo is
+NAGAR Available Available || Age: 35 Sex: MALE Available
+Age: 29 Sex: FEMALE
+487 XVX2465465 488 XVX2465481 age XVX3306156
+Name: MANOJ KUMAR Name: ASHWINI Name: MANI DEVI
+Father's Name: RAJA RAM Husband's Name : MANOJ KUMAR Husband's Name : SOMAN
+House Number: 57 House Number: 57 House Number: 59 KH-33/6, JYOTI
+Age: 45 Sex: MALE Photo is |] Age: 41 Sex: FEMALE Photo is || NAGAR Photo is
+Available Available Age: 68 Sex: FEMALE Available
+490 XVX3306024 ast XVX3305992 492 XVX3305091
+Name: MITLESH JHA Name: POONAM DEVI Name: KISHAN PAL
+Father's Name : SOMAN Husband's Name : MITHLESH Father's Name: DATADEEN
+House Number: 59 KH-33/6, JYOT| House Number: 59 KH-33/8, JYOTI House Number: 64 KH-33/9/2, JYOTI
+NAGAR Photo is NAGAR Photo is NAGAR Photo is
+Age: 43 Sex: MALE Available |] Age: 34 Sex: FEMALE Available || Age: 30 Sex: MALE Available
+493 XVX33040738 494 XVX3303328 495 XVX3312907
+Name: SATYA NARAYAN PASWAN Name: BABITA DEVI Name: NIRALA DEVI
+Father's Name: RAJO PASWAN Husband's Name : SATYANARAYAN Husband's Name: VIJAY PASWAN
+House Number: 68 KH-33/2, JYOTI PASWAN House Number : 69 KH-33/2 JYOTI
+NAGAR Photo is House Number: 68 KH-33/2, JYOTI Photo is NAGAR Photo is
+Age: 38 Sex: MALE Available | | NAGAR Available |] Age: 36 Sex: FEMALE Available
+Age: 31 Sex: FEMALE
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 19
+
+ 
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 3-RAMLILA GROUND, VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+496 XVX3312899 497 XVX3306222 498 XVX3305117
+Name: VAY KUMAR Name: RAM SEWAK Name: SANJAY KUMAR
+Father's Name: SHANKAR PASVWAN Father's Name : MAHADEV PRASAD Father's Name : RAM NARESH
+House Number : 69 KH-33/2 JYOTI House Number: 70 KH-33/9/2, JYOTI House Number: 73 KH-33/4/2, JYOTI
+NAGAR Photo is NAGAR Photo is NAGAR Photo IS
+Age: 33 Sex: MALE Available || Age: 56 Sex: MALE Available || Age: 44 Sex: MALE Available
+499 XVX3304037 500 XVX3303906 501 XVX3303914
+Name: ANAND PRASAD Name: SURESH KUMAR Name: JOGINDER PRASAD
+Father's Name: KISHAN DHARI Father's Name : RAM BAHADUR Father's Name: KESRI LAL
+PRASAD PATEL ; House Number: 79 KH-33/2, JYOTI
+House Number: 74 KH-33/2/3, JYOTI Photo is House Number: 77 KH-33/2, JYOTI Photo is NAGAR Photo is
+NAGAR Available NAGAR Available Age: 40 Sex: MALE Available
+Age: 30 Sex: MALE Age: 45 Sex: MALE
+502 XVX3304 102 503 XVX3304086 504 XVX3304094
+Name: PREMLATA Name: RAJARAM SAH Name: KIRAN DEVI
+Husband's Name : JOGINDER Father's Name : JIVACHHA SAH Husband's Name: RAJARAM SAH
+PRASAD House Number: 81 KH-33/3, JYOTI ; House Number: 81 KH-33/3, JYOTI
+House Number : 79 KH-33/2 JYOTI Photo is NAGAR Photo is NAGAR Photo is
+NAGAR Available || Age: 38 Sex: MALE Available |] Age: 35 Sex: FEMALE Available
+Age: 37 Sex: FEMALE
+505 XVX3303898 506 XVX3303344 507 XVX3313087
+Name: LAXMAN PANDIT Name: RAMITA DEVI Name: RUMA
+Father's Name: JAGEWAR PANDIT Husband's Name: LAXMAN PANDIT Husband's Name: JAl PRAKASH
+House Number : 83 KH-33/2, JYOT! House Number: 8&3 KH-33/2, JYOTI | House Number: 84, KH-33/3 JYOTI
+NAGAR Photo is NAGAR Photo is NAGAR Photo is
+Age: 31 Sex: FEMALE Available || Age: 27 Sex: FEMALE Available || Age: 45 Sex: FEMALE Available
+508 XVX2635720 509 JDJ1032150 510 XVX0001271
+Name: DEEPIKA Name: SHANTA Name: DEEPAK KUMAR
+Father's Name : HARI SINGH Husband's Name: NARESH KUMAR Father's Name : PARMOD PASWAN
+House Number: 85 House Number: 86 . House Number: 87/3
+Age: 27 Sex: FEMALE Photo is Age: 68 Sex: FEMALE Photois || Age: 33 Sex: MALE Photo is
+Available Available Available
+[ 511 | XVX0001404 512 XVX0001412 513 XVX0001420
+Name: DESH RAJ Name: USHA RANI Name : NITIN SAINI
+Father's Name : CHANDGI Husband's Name : DESH RAJ Father's Name - DESHRAJ SAINI
+House Number : 93 House Number : 93 ; House Number: 93
+Age: 66 Sex: MALE Photo is Age: 62 Sex: FEMALE Photo is Age: 35 Sex: MALE Photo is
+Available Available Available
+S14 XVX0001438 515 XVX2387537 316 XVX2507564
+Name: PUNIT SAINI Name: BAHWNA SAINI Name: OM PRAKASH
+Father's Name: DESRAJ SAINI Husband's Name: AMIT SAINI Father's Name: PANNA LAL
+House Number : 93 House Number : 95 ; House Number: 103
+Age: 33 Sex: MALE Photo is Age: 34 Sex: FEMALE Photo is Age: 37 Sex: MALE Photo is
+Available Available Available
+517 XVX2504974 518 XVX2657795 [ 518 XVX0001941
+Name: BABLI DEVI Name: BABLI DEVI Name: RAMPAT
+Husband's Name : OM PRAKASH Husband's Name : OM PRAKASH Father's Name : NATTHUVA
+House Number: 103 House Number: 103 House Number: 106
+Age: 36 Sex: FEMALE Photo is Age: 35 Sex: FEMALE Photo is Age: 74 Sex: MALE Photo is
+Available Available Available
+520 XVX0001958 521 XVX2965259 522 JDJO790592
+Name: BIMLA Name: MAHESH Name: BABITA
+Husband's Name : RAMPAT Father's Name : RAMPAT Husband's Name : MAHESH KUMAR,
+House Number: 106 House Number: 106 House Number: 106
+Age: 68 Sex: FEMALE Photo is Age: 51 Sex: MALE Photo is Age: 45 Sex: FEMALE Photo is
+Available Available Available
+523 XVX0001974 524 XVX2070258 525 XVX2884 757
+Name: MANOJ KUMAR Name: ARUN KUMAR Name: ANAND SAINI
+Father's Name: RAMPAT Father's Name : MAHESH KUMAR Father's Name - MAHESH KUMAR
+House Number: 106 House Number: 106 . House Number: 106
+Age: 45 Sex: MALE Photo is Age: 27 Sex: MALE Photois || Age: 22 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 20
+
+ 
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 3-RAMLILA GROUND, VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+526 XVX3265303 527 XVX3321452 528 XVX0001735
+Name: POOJA SAINI Name: VINAY KUMAR Name: USHA
+Father's Name : MANOJ KUMAR Father's Name : MANOJ KUMAR Husband's Name: SATISH
+House Number: 106 House Number: 106 House Number: 125
+Age: 20 Sex: FEMALE Photo is Age: 19 Sex: MALE Photo is Age: 67 Sex: FEMALE Photo is
+Available Available Available
+529 XVX0001727 530 XVX0001750 531 XVX0001743
+Name: OM PRAKASH BHARDWAJ Name: SHYAM SUNDER Name: KRISHNA
+Father's Name: SUBE RAM SHARMA Father's Name: SUBE Husband's Name: OM PRAKASH
+House Number: 125 House Number: 125 . House Number: 125
+Age: 63 Sex: MALE Photo is Age: 59 Sex: MALE Photois || Age: 55 Sex: FEMALE Photo is
+Available Available Available
+[ 532 | XVX0001776 533 XVX0001 768 534 XVX0001 784
+Name: INDERA Name: PINK! Name: MANOJ
+Husband's Name: SHYAM SUNDER Husband's Name : MANO Father's Name: SUBE
+House Number: 125 House Number: 125 . House Number: 125
+Age: 53 Sex: FEMALE Photo is Age: 49 Sex: FEMALE Photois || Age: 48 Sex: MALE Photo is
+Available Available Available
+535 XVX0001 792 536 XVX2468956 537 XVX0001677
+Name: DIWAKAR SHARMA Name : ASHWANI BHARDWAJ Name: ANIL
+Father's Name: SATISH KUMAR Father's Name : MANOJ BHARDWAJ Father's Name : CHANDGI
+House Number: 125 House Number: 125 House Number: 126
+Age: 34 Sex: MALE Photo is Age: 26 Sex: MALE Photo is Age: 53 Sex: MALE Photo is
+Available Available Available
+538 XVX2478392 539 XVX2643442 540 XVX1771195
+Name: MUKUL BHARDWAJ Name: SAHIL BHARDWAJ Name: YOGESH SAINI
+Father's Name: ANIL BHARDWAJ Father's Name : ANIL BHARDWAJ Father's Name : JAGDISH CHANDER
+House Number: 126 House Number: 126 . House Number: 138
+Age: 27 Sex: MALE Photo is Age: 25 Sex: MALE Photois || Age: 33 Sex: MALE Photo is
+Available Available Available
+541 XVX2626521 [52] XVX2507762 543 XVX1467935
+Name: BHISMA SAINI Name: AARTI Name: SHRI NIWAS
+Father's Name: RAJ KUMAR Father's Name : MAHENDER SINGH Father's Name: SHIV CHARAN
+House Number: 146 House Number: 167 House Number: B-44
+Age: 27 Sex: MALE Photo is Age: 31 Sex: FEMALE Photo is Age: 43 Sex: MALE Photo is
+Available Available Available
+54s XVX1467943 545 LQK0933507 546 XVX0001032
+Name: MINA Name: LAJJA DEVI Name: SANJAY KUMAR
+Husband's Name: SHRI NIWASH Husband's Name: BHIM SEN Father's Name: CHET RAM
+House Number: B-44 House Number : B-72 House Number: H NO 38
+Age: 37 Sex: FEMALE Photo is Age: 46 Sex: FEMALE Photo is Age: 48 Sex: MALE Photo is
+Available Available Available
+[ 547] XVX3339397 548 XVX2316404 549 XVX2378924
+Name: Shivam Bhardwaj Name: RANJEET KUMAR Name: LALITA KUMARI
+Mother's Name : Krishna Devi Father's Name : DEEP NARAYAN Husband's Name: RANJEET KUMAR,
+House Number: H.No 125 SINGH House Number: HN-106
+Age: 25 Sex: MALE Photo is House Number: HN-106 Photo is Age: 34 Sex: FEMALE Photo is
+Available Age: 44 Sex: MALE Available Available
+550 XVX2679669 551 XVX2710465 352 XVX3356532
+Name: NITIN KUMAR Name: NARSINGH DAHIYA Name: SANJANA BLON
+Father's Name: SAT NARAIN Father's Name : MAHABIR SINGH Father's Name : MAN BAHADUR BLON
+House Number: HN-131 House Number: KH-38/15 House Number > KH NO-39/11
+Age: 29 Sex: MALE Photo is Age: 40 Sex: MALE Photo is Age: 23 Sex: FEMALE Photo is
+Available Available Available
+553 XVX3350170
+Name: BILASH RAY
+Father's Name : CHALITRA RAY
+House Number > KHNO-39/11 RAJVANSH
+GARDN Photo is
+Age: 43 Sex: MALE Available
+
+Total Pages 39 - Page 21
+
+ 
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+554 XVX0001990 555 XVX0002014 [558] XVX0002048
+Name: DHYAN SARUP Name: MAGAN MALA Name: MOHINI SHARMA
+Father's Name : JAGAN NATH Husband's Name : DHYAN SARUP Father's Name : DHYAN SWAROOP
+House Number: 8 House Number: & House Number: 8
+Age: 69 Sex: MALE Photo is Age: 67 Sex: FEMALE Photo is Age: 34 Sex: FEMALE Photo is
+Available Available Available
+Sov XVX0002063 598 XVX2907178 558 JDJO796631
+Name: GAURAV KAUSHAL Name: RAHUL SAINI Name: OM KUMAR
+Father's Name: DHYAN SWARGOP Father's Name : VED PRAKASH Father's Name: KALWA RAM
+House Number : 8 House Number : 9 . House Number: 114
+Age: 32 Sex: MALE Photo is Age: 33 Sex: MALE Photois || Age: 45 Sex: MALE Photo is
+Available Available Available
+560 XVX0004259 561 XVX2070134 562 XVX2478533,
+Name: ANJU DEVI Name: TARUN KUMAR Name: KAMAL
+Husband's Name : OM KUMAR. Father's Name : OM KUMAR, Father's Name: OM KUMAR
+House Number: 14 House Number: 11 . House Number: 114
+Age: 42 Sex: FEMALE Photo is Age: 27 Sex: MALE Photois || Age: 26 Sex: MALE Photo is
+Available Available Available
+563 XVX1873983 564 XVX2070373 565 XVX2944254
+Name: SOURAV SAINI Name: SUMIT SAINI Name: VISHAL SAINI
+Father's Name: ANIL SAINI Father's Name: Pawan Kumar Father's Name: PAWAN SAINI
+House Number: 12 House Number: 12 House Number: 12
+Age: 30 Sex: MALE Photo is Age: 27 Sex: MALE Photo is Age: 25 Sex: MALE Photo is
+Available Available Available
+566 XVX3326618 567 XVX0004366 568 XVX0004481
+Name: Kartika Saini Name: NIRMAL Name: VIDIT SAINI
+Husband's Name: Sumit Saini Husband's Name: YASPAL Father's Name: YASPAL SAINI
+House Number: 12 House Number: 13 . House Number: 13
+Age: 25 Sex: FEMALE Photo is Age: 59 Sex: FEMALE Photo is || Age: 34 Sex: MALE Photo is
+Available Available Available
+569 XVX0002006 570 XVX0002022 571 XVX0002030
+Name: SUNIL SARUP Name: SUDESH Name: MEENA
+Father's Name : PURAN LAL Husband's Name: ANIL SHARMA Husband's Name : SUNIL SARUP
+House Number: 15. House Number: 15 House Number: 15
+Age: 58 Sex: MALE Photo is Age: 54 Sex: FEMALE Photo is Age: 50 Sex: FEMALE Photo is
+Available Available Available
+572 XVX0002071 573 XWVX2237161 574 XVX1881365
+Name: ROHIT Name: ANIL Name: RAKHI KATIYAR
+Father's Name: SUNIL SHARMA Father's Name : MAHABIR SINGH Father's Name: SHYAM KUMAR
+House Number: 15. House Number: 15 House Number : 20/9
+Age: 32 Sex: MALE Photo is Age: 31 Sex: MALE Photo is Age: 31 Sex: FEMALE Photo is
+Available Available Available
+575 XVX2902039 576 xvx2902047 [L877] XVX2918589
+Name: SANJEEV SAINI Name: KOMAL SAINI Name: Ganga devi Devi
+Father's Name: VIJAY KUMAR SAINI Husband's Name: SANJEEV SAINI Husband's Name: Rajbir
+House Number: 23 House Number: 23 House Number: 33/17/2
+Age: 35 Sex: MALE Photo is Age: 32 Sex: FEMALE Photo is Age: 69 Sex: FEMALE Photo is
+Available Available Available
+578 XVX2627320 578 XVX2789310 580 XVX2234689
+Name: RAM BARAN Name: DHANI RAM Name: JYOTI SAINI
+Father's Name: RAMSUNJIVAN Father's Name : SHEESH RAM Father's Name : UMED SINGH
+House Number: 36/13/14 House Number: 39 House Number: 40
+Age: 37 Sex: MALE Photo is Age: 62 Sex: MALE Photo is Age: 34 Sex: FEMALE Photo is
+Available Available Available
+581 JDJ0788281 582 JDJ0788273 583 XVX0002121
+Name: DEEPAK Name: MAMTA Name: PRITI
+Father's Name : MANGE RAM Husband's Name : MOHAN Husband's Name : DEEPAK
+House Number: 42 House Number: 42 . House Number: 42
+Age: 44 Sex: MALE Photo is Age: 43 Sex: FEMALE Photois || Age: 43 Sex: FEMALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 22
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+[ 584 | XVX0002212 585 XVX0002220 [ 586 JDJ0802736
+Name: PREM Name: RAJ WATI Name: RAJ KUMAR
+Husband's Name : LAXMAN Husband's Name: JAl BHAGWAN Father's Name : LAXMAN SINGH
+House Number: 44 House Number: 44 House Number: 44
+Age: 68 Sex: FEMALE Photo is Age: 63 Sex: FEMALE Photo is Age: 45 Sex: MALE Photo is
+Available Available Available
+587 JDJ0802744 588 XVX2965275 588 JDJ0811414
+Name: GEETA DAVE Name: HARISH KUMAR Name: ALKA
+Husband's Name: RAJ KUMAR Father's Name : JAl BHAGWAN Husband's Name: HARISH
+House Number: 44 House Number: 44 . House Number: 44
+Age: 44 Sex: FEMALE Photo is Age: 42 Sex: MALE Photois || Age: 42 Sex: FEMALE Photo is
+Available Available Available
+590 XVX2787520 591 XVX0002253 [ #502 XVX0002287
+Name: MUKUL SAINI Name: BABU LAL Name: SUNITA SAINI
+Father's Name > HARISH KUMAR SAINI Father's Name : BHARAT SINGH Husband's Name: ANIL SAINI
+House Number: 44 House Number: 45 . House Number: 45
+Age: 25 Sex: MALE Photo is Age: 58 Sex: MALE Photois || Age: 39 Sex: FEMALE Photo is
+Available Available Available
+593 XVX0002303 594 XVX2070290 595 XVX0002311
+Name: MADHU RANI Name: BHARTI SAINI Name: RAJ PAL
+Father's Name: BABU LAL Husband's Name: SANDEEP SAINI Father's Name : BHAGGU
+House Number: 45 House Number: 45 . House Number: 47
+Age: 35 Sex: FEMALE Photo is Age: 31 Sex: FEMALE Photo is Age: 51 Sex: MALE Photo is
+Available Available Available
+596 XVX0002329 597 XVX2965309 598 XVX0002345
+Name: SARWATI Name: JAI BHAGWAN Name: SAVITRI
+Husband's Name: RAJ PAL Father's Name : KHUSHI KAM Husband's Name: JAl BHAGWAN
+House Number: 47 House Number : 48 . House Number: 48
+Age: 47 Sex: FEMALE Photo is Age: 72 Sex: MALE Photois || Age: 67 Sex: FEMALE Photo is
+Available Available Available
+599 XVX2070241 600 XVX2070233 601 XVX2958973
+Name: TEENA Name: SOHAN PAL Name: SHOBHA
+Father's Name: JAl BHAGWAN Father's Name : JAl BHAGWAN Husband's Name : SOQHAN PAL
+House Number : 48 House Number : 48 ; House Number: 48
+Age: 33 Sex: FEMALE Photo is Age: 28 Sex: MALE Photo is Age: 28 Sex: FEMALE Photo is
+Available Available Available
+S02 XVX0002352 603 XVX0002386 504 XVX0002394
+Name: RAM WATI Name: ANIL Name: RAJ KUMAR
+Husband's Name : MUKHTIYAR SINGH Father's Name : MUKHTYAR SINGH Father's Name - MUKHTIYAR SINGH
+House Number: 49 House Number: 49 ; House Number: 49
+Age: 64 Sex: FEMALE Photo is Age: 45 Sex: MALE Photo is Age: 43 Sex: MALE Photo is
+Available Available Available
+605 XVX0002402 606 XVX2070159 Gor XVX0002360
+Name: SUMAN Name: DOLI SAINI Name: VINOD
+Husband's Name : RAJKUMAR. Husband's Name : ANIL SAINI Father's Name - ABHE RAM
+House Number: 49 House Number: 49 House Number: 49A
+Age: 41 Sex: FEMALE Photo is Age: 37 Sex: FEMALE Photo is Age: 59 Sex: MALE Photo is
+Available Available Available
+508 XVX0002378 609 XVX0002436 510 XVX0002444
+Name: SUNITA Name > AMIT Name: GAURAV
+Husband's Name : VINOD Father's Name : VINOD Father's Name: VINOD
+House Number: 494 House Number: 49A House Number: 49B
+Age: 50 Sex: FEMALE Photo is Age: 33 Sex: MALE Photo is Age: 32 Sex: MALE Photo is
+Available Available Available
+611 XVX0002485 S12 XVX2908622 513 XVX2908614
+Name: NAVEEN Name: RIBHA DEVI Name: KARAN MUKHERJEE
+Father's Name: BENI PRASAD Husband's Name : KARAN Father's Name: SIGESHWAR
+House Number : 50 MUKHERJEE | MUKHERJEE
+Age: 46 Sex: MALE Photo is House Number : 50/3 Photo is House Number: 50/3 Photo is
+Available Age: 35 Sex: FEMALE Available Age: 33 Sex: MALE Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 23
+
+ 
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ 514] XVX0002295 615 XVX1881340 516 XVX1881358
+
+Name: SANDEEP SAINI Name: SHYAM KUMAR Name: UMA DEVI
+
+Father's Name: BABU LAL Father's Name : SHIVNANDAN LAL Husband's Name: SHYAM KUMAR
+
+House Number: 50/8 House Number: 50/9 House Number: 50/9
+
+Age: 37 Sex: MALE Photo is Age: 60 Sex: MALE Photo is Age: 54 Sex: FEMALE Photo is
+Available Available Available
+
+[ 617] XVX1923027 618 XVX1841535 [ 619 XVX2400942
+
+Name: SATISH Name: PRADEEP KUMAR Name: SOHAN VIR SINGH KATARIYA
+
+Father's Name: ANGAD MORYA Father's Name : ANGAD MAURYA Father's Name : BHAWAR SINGH
+
+House Number : 50/9 House Number : 50/9 House Number: 50/12
+
+Age: 39 Sex: MALE Photo is Age: 33 Sex: MALE Photo is || Age: 53 Sex: MALE Photo is
+Available Available Available
+
+[ 620 | DDP0997965 624 DDP0997940 [ S22 XVX2679677
+
+Name: HARVIR SINGH Name: NARESH PAL Name: AMIT SHARMA
+
+Father's Name: BHANWAR SINGH Father's Name : BHANVWAR SINGH Father's Name : DHANPAT SHARMA
+
+House Number: 50/12 House Number: 50/12 SHARMA
+
+Age: 46 Sex: MALE Photo is Age: 43 Sex: MALE Photo is House Number: 50/13 Photo is
+Available Available Age: 38 Sex: MALE Available
+
+| 623 | XVX2707148 624 XVX0002501 | 625 XVX2965341
+
+Name: PARVEEN KAUSHIK Name: BASANTI Name: BAL KISHAN
+
+Husband's Name: AMIT SHARMA Husband's Name: BAL KISHEN Father's Name : PURAN SINGH
+
+House Number : 50/13 House Number: 51 House Number: 51
+
+Age: 35 Sex: FEMALE Photo is Age: 75 Sex: FEMALE Photo is Age: 63 Sex: MALE Photo is
+Available Available Available
+
+| 826 | JDJ0788703 627 JDJ0788711 | 628 XVX2965358
+
+Name: MEENU Name: AMIT Name: JAI PRAKASH
+
+Father's Name: BAL KISHAN Father's Name: BAL KISHAN Father's Name : KANWAR SINGH
+
+House Number: 514 House Number: 51 House Number: 52
+
+Age: 48 Sex: MALE Photo is Age: 41 Sex: MALE Photo is || Age: 58 Sex: MALE Photo is
+Available Available Available
+
+[ 629 | XVX1467968 630 XVX1467976 [ 631 XVX1468149
+
+Name: ANUJ KAUSHAL Name: PINK] KAUSHAL Name: GAYATRI KAUSHAL
+
+Father's Name: DAYANAND KAUSHAL Husband's Name : AMIT KAUSHAL Husband's Name : ANUJ KAUSHAL
+
+House Number : 52 House Number : 52 House Number: 52
+
+Age: 43 Sex: MALE Photo is Age: 41 Sex: FEMALE Photo is Age: 38 Sex: FEMALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ 832 | XVX0002568 633 JDJ0800706 [ 534 XVX0002576
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: SHEELA Name: RAJINDER SAINI Name : MUKESH KUMAR
+
+Husband's Name: BAL KISHEN Father's Name : HARDWARI LAL Father's Name : HARDWARI LAL
+
+House Number : 53. House Number: 53 House Number: 53
+
+Age: 55 Sex: FEMALE Photo is Age: 45 Sex: MALE Photo is Age: 41 Sex: MALE Photo is
+Available Available Available
+
+[ 635 | XVX0002584 636 XVX1467984 637 XVX0002600
+
+Name: NEETU Name: AJAY SAINI Name: KAVITA
+
+Husband's Name : MUKESH Father's Name : BAL KISHAN Husband's Name: AJAY KUMAR
+
+House Number: 53 House Number: 53 House Number: 53
+
+Age: 39 Sex: FEMALE Photo is Age: 37 Sex: MALE Photo is Age: 37 Sex: FEMALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ 638 | JDJ0789032 639 JDJ0791541 [ 540 XVX1467992
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: VISNU PRAKASH Name: SANDEEP Name: MONIKA
+
+Father's Name: SATYA DEV Father's Name: SATYA DEV Husband's Name: SANDIP SAINI
+
+House Number: 54 House Number: 54 House Number: 54
+
+Age: 45 Sex: MALE Photo is Age: 38 Sex: MALE Photo is Age: 32 Sex: FEMALE Photo is
+Available Available Available
+
+oa XVX0002667 S42 JDJ1030758 [ 543 XVX2013497
+
+Name: KANTA Name: ROHIT Name: LALITA SAINI
+
+Husband's Name : RAJENDER Father's Name : ASHOK KUMAR Husband's Name: ROHIT SAINI
+
+House Number : 55 House Number: 55 . House Number: 55
+
+Age: 68 Sex: FEMALE Photo is Age: 36 Sex: MALE Photois || Age: 30 Sex: FEMALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022 Date of Publication:-05-01-2022 Total Pages 39 - Page 24
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+baa XVX0002741 645 XVX0002758 546 XVX1468123
+Name: EBRAHAM Name: SAMIM Name: RAN BIR SINGH
+Father's Name: KALUTA RAM Husband's Name : EBRAHAM Father's Name: BALWANT SINGH
+House Number: 56 House Number: 56 House Number: 56A
+Age: 45 Sex: MALE Photo is Age: 37 Sex: FEMALE Photo is Age: 59 Sex: MALE Photo is
+Available Available Available
+G47 XVX1468131 648 XVX2476108 Gag XVX2469722
+Name: SHILA DEVI Name: RAVI Name: SAROJ
+Husband's Name: RANBIR SINGH Father's Name : MAAN SINGH Father's Name: BALBEER SINGH
+House Number: 56A House Number: 56A . House Number: 56A
+Age: 39 Sex: FEMALE Photo is Age: 33 Sex: MALE Photois || Age: 31 Sex: FEMALE Photo is
+Available Available Available
+650 SBJ0997460 651 XVX2965382 552 JDJ0811588
+Name: VANDANA SAINI Name: GARIB SINGH Name: RANVEER
+Husband's Name : NAVEEN SAINI Father's Name: KALVA Father's Name: KALVA
+House Number: 57 House Number: 59 . House Number: 59
+Age: 34 Sex: FEMALE Photo is Age: 53 Sex: MALE Photois || Age: 46 Sex: MALE Photo is
+Available Available Available
+853 JDJ0811240 854 JDJO7978783 855 XVX0002899
+Name: SUMAN Name: BABITA Name: ROHIT SAINI
+Husband's Name: RANBIR Husband's Name: ANOOP SINGH Father's Name : ANUP SINGH
+House Number: 59 House Number: 63 House Number: 63
+Age: 41 Sex: FEMALE Photo is Age: 52 Sex: FEMALE Photo is Age: 34 Sex: MALE Photo is
+Available Available Available
+856 XVX0002907 857 XVX0002980 858 XVX0002956
+Name: AMIT SAINI Name: SATYENDER SAINI Name: VINOD
+Father's Name: ANUP SINGH Father's Name : OM PRAKASH Father's Name : OM PRAKASH
+House Number: 63 House Number: 64 . House Number: 64
+Age: 34 Sex: MALE Photo is Age: 53 Sex: MALE Photois || Age: 51 Sex: MALE Photo is
+Available Available Available
+659 XVX0003012 660 XVX0002972 661 XVX2965416
+Name: KUSUM Name: MEENA Name: SANJAY
+Husband's Name : SATYENDER SAINI Husband's Name : VINOD Father's Name - OM PRKASH
+House Number: 64 House Number: 64 House Number: 64
+Age: 50 Sex: FEMALE Photo is Age: 47 Sex: FEMALE Photo is Age: 44 Sex: MALE Photo is
+Available Available Available
+662 XVX1521335 663 XVX1820067 564 XVX0003855
+Name: RAJU SAINI Name: SANGEETA Name: YOGESHVER KUMAR
+Father's Name: OM PARKASH Husband's Name: RAJU SAINI Father's Name: KRISHAN LAL
+House Number: 64 House Number: 64 House Number: 64
+Age: 43 Sex: MALE Photo is Age: 39 Sex: FEMALE Photo is Age: 36 Sex: MALE Photo is
+Available Available Available
+865 XVX2854503 666 XVX3347978 G67 XVX0003061
+Name: BHARAT SAINI Name: LUCKY Name: RAVINDER KUMAR
+Father's Name: SATYENDER SAINI Father's Name: SATYENDER SAINI Father's Name - OM PRAKASH
+House Number: 64 House Number: 64 House Number: 66
+Age: 21 Sex: MALE Photo is Age: 19 Sex: MALE Photo is Age: 41 Sex: MALE Photo is
+Available Available Available
+668 XVX0003087 669 XVX0003095 570 XVX0003103
+Name: YOGENDER Name: SAPANA Name: USHA
+Father's Name: OM PARKESH Husband's Name: RAVENDER Husband's Name : YOGENDER
+House Number: 66 House Number: 66 House Number: 66
+Age: 39 Sex: MALE Photo is Age: 39 Sex: FEMALE Photo is Age: 37 Sex: FEMALE Photo is
+Available Available Available
+or XVX0003129 S72 XVX0003137 S73 XVX0003186
+Name: PAALE RAM Name: SANTOSH Name: RAJ KUMAR
+Father's Name: CHANDGI Husband's Name: PAALE RAM Father's Name - RAM SINGH
+House Number : 68 House Number : 68 . House Number: 69
+Age: 55 Sex: MALE Photo is Age: 50 Sex: FEMALE Photo is || Age: 56 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 25
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+ora XVX0003 194 675 XVX2630036 $76 XVX3247798
+Name: RAMAN Name: KANCHAN SAINI Name: DRONA SAINI
+Husband's Name: RAJ KUMAR Father's Name : AZAD SINGH Father's Name: RAJ KUMAR
+House Number: 69 House Number: 69 House Number: 69
+Age: 55 Sex: FEMALE Photo is Age: 26 Sex: FEMALE Photo is Age: 23 Sex: MALE Photo is
+Available Available Available
+or7 XVX0003277 678 XVX0003327 G79 XVX0003335
+Name: ROSHAN LAL Name: VJAY KUMAR. Name: POONAM
+Father's Name : HARI SINGH Father's Name: RAJ KUMAR Husband's Name: VIJAY KUMAR
+House Number: 714 House Number: 75 . House Number: 75
+Age: 33 Sex: MALE Photo is Age: 54 Sex: MALE Photois || Age: 53 Sex: FEMALE Photo is
+Available Available Available
+680 XVX0003343 681 JDJ1031061 582 XVX2965440
+Name: VEENU Name: SUNITA Name: SATISH
+Father's Name: RAJ KUMAR Husband's Name : VINU KUMAR Father's Name: JASWANT SINGH
+House Number: 75 House Number: 75 . House Number: 76
+Age: 49 Sex: MALE Photo is Age: 47 Sex: FEMALE Photo is || Age: 52 Sex: MALE Photo is
+Available Available Available
+883 XVX0003384 6a4 XVX0004168 585 XVX0003392
+Name: SANTOSH Name: LALIT Name: MUKESH
+Husband's Name: SATISH Father's Name : DALEL Father's Name: JASWANT SINGH
+House Number: 76 House Number: 76 House Number: 76
+Age: 51 Sex: FEMALE Photo is Age: 47 Sex: MALE Photo is Age: 44 Sex: MALE Photo is
+Available Available Available
+886 JDJ0792549 687 XVX0003400 888 XVX0003418
+Name: SUNITA SAINI Name: MAMTA Name: KRITI SAINI
+Husband's Name : LALIT Husband's Name: MUKESH Father's Name: VINOD KUMAR SAINI
+House Number: 76 House Number: 76 . House Number: 76
+Age: 43 Sex: FEMALE Photo is Age: 42 Sex: FEMALE Photois || Age: 35 Sex: FEMALE Photo is
+Available Available Available
+689 XVX0003426 690 XVX0003442 $91 XVX3245487
+Name: KAPIL SAINI Name: GAURV SAINI Name: BHARAT SAINI
+Father's Name: VINOD KUMAR SAINI Father's Name: SATISH KUMAR Father's Name : LALIT SAINI
+House Number : 76 House Number: 76 House Number : 76
+Age: 35 Sex: MALE Photo is Age: 33 Sex: MALE Photo is Age: 20 Sex: MALE Photo is
+Available Available Available
+bee XVX0003475 693 XVX0003459 baa XVX0003467
+Name: DAYANAND Name: GORDHAN Name: ANGEERA
+Father's Name: RAM CHANDER Father's Name : RAM CHANDER Husband's Name : GORDHAN
+House Number : 77 House Number: 77 House Number: 77
+Age: 57 Sex: MALE Photo is Age: 56 Sex: MALE Photo is Age: 54 Sex: FEMALE Photo is
+Available Available Available
+G95 XVX0003483 696 XVX0003509 Gor XVX0003491
+Name: RASHMI Name: MANJU Name: KRISHAN
+Husband's Name : DAYANAND Husband's Name: KRISHAN Father's Name : RAMCHANDER
+House Number: 77 House Number: 77 House Number: 77
+Age: 54 Sex: FEMALE Photo is Age: 51 Sex: FEMALE Photo is Age: 50 Sex: MALE Photo is
+Available Available Available
+698 XVX0003525 699 XVX2726958 700 XVX1771088
+Name: POOJA Name: JAGRITI Name: ANKIT
+Father's Name: KRISHAN KUMAR, Husband's Name : KAPIL Father's Name - SHRI DAYANANAD
+House Number: 77 House Number: 77 House Number: 77
+Age: 32 Sex: FEMALE Photo is Age: 32 Sex: FEMALE Photo is Age: 31 Sex: MALE Photo is
+Available Available Available
+704 XVX2477510 702 XVX0003533 703 XVX0003541
+Name: JANAK Name: NARENDER Name: JAl BHAGWAN SAINI
+Father's Name: KRISHAN KUMAR, Father's Name : KARAN SINGH Father's Name - KARAN SINGH
+House Number: 77 House Number : 78 . House Number: 78
+Age: 29 Sex: MALE Photo is Age: 67 Sex: MALE Photois || Age: 65 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 26
+
+ 
+
+ 
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+708 XVX0003558 705 XVX2965465 706 XVX0003624
+Name: OMWATI Name: MANOJ Name: KAMLESH
+Husband's Name : NARENDER Father's Name : NARENDER Husband's Name : MANOJ
+House Number: 78 House Number: 78 House Number: 78
+Age: 63 Sex: FEMALE Photo is Age: 42 Sex: MALE Photo is Age: 41 Sex: FEMALE Photo is
+Available Available Available
+for XVX0003632 708 XVX0003640 708 XVX0003673
+Name: SAINA Name: JAI MALA Name: KOMAL
+Father's Name: JAl BHAGWAN Father's Name : JAl BHAGWAN Father's Name: JAI BHAGWAN
+House Number : 78 House Number : 78 . House Number: 78
+Age: 38 Sex: FEMALE Photo is Age: 37 Sex: FEMALE Photois || Age: 34 Sex: FEMALE Photo is
+Available Available Available
+70 XVX1854421 m XVX0003 707 He XVX1962884
+Name: KSHITIJ Name: RAJENDER Name: VINAY KUMAR
+Father's Name: JAl BHAGWAN SAINI Father's Name : GURDAYAL Father's Name: ASHOK KUMAR
+House Number : 78 House Number: 79 . House Number: 79
+Age: 30 Sex: MALE Photo is Age: 65 Sex: MALE Photois || Age: 28 Sex: MALE Photo is
+Available Available Available
+73 XVX0003731 m4 XVX0003749 Hs JDJ1030808
+Name: PHOOLWATI Name: KRISHNA Name: MUNNI DEVI
+Husband's Name : BHAGWAT Husband's Name: SOMPAL Father's Name : BHAGWAT
+House Number: 80 House Number: 80 . House Number: 80
+Age: 74 Sex: FEMALE Photo is Age: 65 Sex: FEMALE Photo is Age: 63 Sex: FEMALE Photo is
+Available Available Available
+716 XVX0003764 i XVX1500420 78 XVX0004028
+Name: USHA Name: NISHA SAINI Name: RAJPAL
+Husband's Name : HUKAM SINGH Father's Name : SOM PAL SAINI Father's Name: PRITHI SINGH
+House Number: 80 House Number: 80 . House Number: 814
+Age: 37 Sex: FEMALE Photo is Age: 35 Sex: FEMALE Photois || Age: 64 Sex: MALE Photo is
+Available Available Available
+79 XVX2965481 720 XVX0003780 721 XVX2070381
+Name: SURENDER Name: MANJU Name: VIDIT SAINI
+Father's Name: AMILAL Husband's Name : SURENDER Father's Name: SURENDER SAINI
+House Number: 84 House Number: 81 ; House Number: 81
+Age: 50 Sex: MALE Photo is Age: 46 Sex: FEMALE Photo is Age: 28 Sex: MALE Photo is
+Available Available Available
+22 XVX2070399 723 XVX2787512 724 XVX3265691
+Name: NILIMA SAINI Name: SHIVANI SAINI Name: MANTHAN
+Father's Name: SURENDER SAINI Father's Name : SURENDER SAINI Father's Name: RAJPAL
+House Number: 84 House Number: 81 ; House Number: 81
+Age: 27 Sex: FEMALE Photo is Age: 25 Sex: FEMALE Photo is Age: 22 Sex: MALE Photo is
+Available Available Available
+[ 728] XVX0003822 726 JDJ0796615 rer XVX1771112
+Name: RAJ KUMAR Name: MAHENDER Name: SAINI CHAUPAL
+Father's Name: SHRI CHAND Father's Name : SHRI CHAND Father's Name: SURAJ CHAPAL
+House Number: 62 House Number: 8&2 House Number: 62
+Age: 62 Sex: MALE Photo is Age: 62 Sex: MALE Photo is Age: 53 Sex: MALE Photo is
+Available Available Available
+728 XVX2463634 723 XVX2463619 730 XVX0003830
+Name: GANGA RAM Name: SAROJ Name > MAMTA
+Father's Name: AMER SINGH Husband's Name : GANGA RAM Husband's Name: RAJ KUMAR
+House Number: 62 House Number: 8&2 House Number: 62
+Age: 53 Sex: MALE Photo is Age: 50 Sex: FEMALE Photo is Age: 49 Sex: FEMALE Photo is
+Available Available Available
+m1 JDJO796607 732 XVX0003806 [ 733 XVX0003814
+Name: SUSHEELA Name: SURENDER Name: RENU
+Husband's Name : MAHENDER Father's Name : SHRI CHAND Husband's Name : SURENDER
+House Number: 62 House Number: 82 . House Number: 82
+Age: 49 Sex: FEMALE Photo is Age: 49 Sex: MALE Photois || Age: 47 Sex: FEMALE Photo is
+Available Available Available
+Age as on 01.01.2022 Date of Publication:-05-01-2022 Total Pages 39 - Page 27
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+
+LL 74] xvxooogo10 = [L__5] XVX0003848 738 XVX0003863
+
+Name: SARITA Name: RAJESH SAINI Name: MINAXI
+
+Father's Name: SHIV NARAYAN Father's Name : MAHENDER SAINI Husband's Name : RAJESH SAINI
+
+House Number: 62 House Number: 8&2 House Number: 62
+
+Age: 38 Sex: FEMALE Photo is Age: 36 Sex: MALE Photo is Age: 36 Sex: FEMALE Photo is
+Available Available Available
+
+L737] XVX2090512 L738] XVX2636438 L733] XVX0003871
+
+Name: BHARTI SAINI Name: SHAGUN Name: GAURAV SAINI
+
+Husband's Name : MANOJ SAINI Husband's Name: LEKH RAJ Father's Name : MAHENDER
+
+House Number: 62 House Number: 82 . House Number: 82
+
+Age: 34 Sex: FEMALE Photo is Age: 34 Sex: FEMALE Photois || Age: 33 Sex: MALE Photo is
+Available Available Available
+
+[ 740 | XVX2463683 ia XVX2463668 [ i842 XVX1880672
+
+Name: NARESH SINGH Name: PRIYA Name: KARISHMA SAINI
+
+Father's Name: MAN SINGH Husband's Name : NARESH SINGH Father's Name: SURENDER SAINI
+
+House Number: 62 House Number: 82 . House Number: 82
+
+Age: 33 Sex: MALE Photo is Age: 30 Sex: FEMALE Photois || Age: 29 Sex: FEMALE Photo is
+Available Available Available
+
+| 743] XVX2250314 aa XVX2842110 748 XVX2894558
+
+Name: DIVYA SAINI Name: PARAS SAINI Name: SAGAR SAINI
+
+Father's Name: SURENDER SAINI Father's Name: RAJ KUMAR Father's Name : SURENDER SAINI
+
+House Number: 62 House Number: 82 House Number: 82
+
+Age: 27 Sex: FEMALE Photo is Age: 24 Sex: MALE Photo is Age: 24 Sex: MALE Photo is
+Available Available Available
+
+| 746 | JDJ0789180 Tat XVX1854066 | 748 XVX0003368
+
+Name: PAWAN Name: USHA DEVI Name: SUMAN SAINI
+
+Father's Name : MAHENDER PAL Husband's Name: RAJ KUMAR Husband's Name: VINOD
+
+House Number: 83 House Number: 84 . House Number: 84
+
+Age: 39 Sex: MALE Photo is Age: 73 Sex: FEMALE Photois || Age: 57 Sex: FEMALE Photo is
+Available Available Available
+
+L749] XVx0003434 [750] XVX2478632 L751] XVX1854058
+
+Name: JYOTI SAINI Name: MAMTA SAINI Name: HEENA SAINI
+
+Father's Name: VINOD KUMAR SAINI Husband's Name: KAPIL SAINI Father's Name: VIJAY KUMAR
+
+House Number: 84 House Number: 84 ; House Number: 84
+
+Age: 33 Sex: FEMALE Photo is Age: 33 Sex: FEMALE Photo is Age: 31 Sex: FEMALE Photo is
+Available Available Available
+
+[ 52 | XVX2477569 753 XVX2070308 754 XVX2880417
+
+Name: RAJAT SAINI Name : NITIN SAINI Name: VIPUL SAINI
+
+Father's Name: VINOD SAINI Father's Name : MUKESH KUMAR Father's Name: VIJAY KUMAR
+
+House Number: 84 SAINI ; House Number: 84
+
+Age: 29 Sex: MALE Photo is House Number: 84 Photo is Age: 22 Sex: MALE Photo is
+Available Age: 27 Sex: MALE Available Available
+
+ms XVX3360211 6 XVX3353471 pr XVX2907129
+
+Name: Siddharth Saini Name: Yatharth Saini Name: ARPIT SAINI
+
+Father's Name: Veenu Saini Father's Name : Veenu Saini Father's Name: VEENU SAINI
+
+House Number: 64 House Number: 84 House Number: 84 LAMPUR
+
+Age: 21 Sex: MALE Photo is Age: 20 Sex: MALE Photo is Age: 22 Sex: MALE Photo is
+Available Available Available
+
+[ 758 | XVX0003228 758 XVX0003244 #760 XVX2633303
+
+Name: VAY Name: RAMESH Name: SANTOSH
+
+Father's Name: JAI SINGH Father's Name : JAI SINGH Husband's Name : RAMESH SAINI
+
+House Number: 687A House Number: 87A House Number: 87A
+
+Age: 54 Sex: MALE Photo is Age: 46 Sex: MALE Photo is Age: 51 Sex: FEMALE Photo is
+Available Available Available
+
+764 XVX2633278 762 XVX2635745 [ 783 XVX1521343
+
+Name: DIVYA SAINI Name: PRIYANKA Name: BLENDER
+
+Father's Name: VIJAY SAINI Father's Name : RAMESH SAINI Father's Name - HAWA SINGH
+
+House Number: 87A House Number: 87A . House Number: 87/1/2
+
+Age: 26 Sex: FEMALE Photo is Age: 25 Sex: FEMALE Photo is || Age: 42 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 28
+
+ 
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ Tbe | JDJ0784793 765 XVX2965515 786 JDJ1031483
+
+Name: HARI SINGH Name: SANTOSH Name: JITENDER SAINI
+
+Father's Name: RAM SARUP Husband's Name : HARI SINGH Father's Name: HARI SINGH SAINI
+
+House Number: 876 House Number: 87-B House Number: 87B
+
+Age: 80 Sex: MALE Photo is Age: 76 Sex: FEMALE Photo is Age: 36 Sex: MALE Photo is
+Available Available Available
+
+[ 767] XVX1928645 768 XVX1916807 [ Fee XVX0003160
+
+Name: POONAM SAINI Name: GHAN SHYAM DAS Name : USHA
+
+Husband's Name: JITENDER Father's Name : HARI SINGH Husband's Name: JAINARAYAN
+
+House Number: 87-B House Number: 87-B . House Number: 88
+
+Age: 36 Sex: FEMALE Photo is Age: 30 Sex: MALE Photois || Age: 61 Sex: FEMALE Photo is
+Available Available Available
+
+[ 70 | XVX0004036 ma XVX1468008 [ ie JDJ0783357
+
+Name: BALA Name: MANJUR Name: SAFIK
+
+Husband's Name: RAJPAL Father's Name: SAJJAD HUSSAIN Father's Name: JULOO RAHMAN
+
+House Number: 88 House Number : 88 . House Number: 88
+
+Age: 54 Sex: FEMALE Photo is Age: 46 Sex: MALE Photois || Age: 41 Sex: MALE Photo is
+Available Available Available
+
+| 773] XVX1771096 ra XVX1468016 | 77s XVX1468024
+
+Name: AMIT KUMAR Name: HABIB Name: SULEKHA
+
+Father's Name: SHR| RAJ PAL Father's Name : ISHAK Father's Name: JAY NARAYAN SAINI
+
+House Number: 88 House Number : 88 . House Number: 88
+
+Age: 38 Sex: MALE Photo is Age: 35 Sex: MALE Photo is Age: 35 Sex: FEMALE Photo is
+Available Available Available
+
+| 776 | XVX0004044 wT XVX1468032 | 778 XVX1771211
+
+Name: ASHA DEVI Name: KAMAL SAINI Name: DEEPAK SAINI
+
+Father's Name: RAJPAL Father's Name : JAY NARAYAN SAINI Father's Name: JAI NARAYAN
+
+House Number: 88 House Number : 88 . House Number: 88
+
+Age: 34 Sex: FEMALE Photo is Age: 33 Sex: MALE Photois || Age: 31 Sex: MALE Photo is
+Available Available Available
+
+[ ws | XVX2477817 780 XVX2477866 [ 781 XVX2850394
+
+Name: SANJAY KUMAR Name: PREMVATI Name: SHUBHAM SAINI
+
+Father's Name : GURDAYAL SINGH Husband's Name: SANJAY KUMAR Father's Name: PALEYRAM SAINI
+
+House Number: 89 House Number: 89 ; House Number: 89
+
+Age: 46 Sex: MALE Photo is Age: 37 Sex: FEMALE Photo is Age: 24 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ re | XVX2864288 783 XVX0004085 [ red XVX2965523
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: SHIVAM SAINI Name: PHMIO Name: KALI RAM
+
+Father's Name: PALE RAM SAINI Husband's Name : GURDAYAL Father's Name - GURDAYAL
+
+House Number : 89 House Number : 92 House Number : 92
+
+Age: 22 Sex: MALE Photo is Age: 89 Sex: FEMALE Photo is Age: 50 Sex: MALE Photo is
+Available Available Available
+
+[ m5 | XVX0004127 786 XVX0004135 [ ir XVX0004 143
+
+Name: HARI SINGH Name: DAYA NAND Name: SAMUNDER
+
+Father's Name: GURDAYAL Father's Name : GURDAYAL Father's Name: GURDAYAL
+
+House Number: 92 House Number: 92 House Number: 92
+
+Age: 48 Sex: MALE Photo is Age: 46 Sex: MALE Photo is Age: 44 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ 788 | XVX0004150 789 JDJ1434877 [ 790 JDJ1033943
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: ANITA DEVI Name: MANJU Name: KAUSHLYA
+
+Husband's Name : HARI SINGH Husband's Name : DAYA NAND Husband's Name : SAMUNDER
+
+House Number: 92 House Number: 92 House Number: 92
+
+Age: 43 Sex: FEMALE Photo is Age: 41 Sex: FEMALE Photo is Age: 39 Sex: FEMALE Photo is
+Available Available Available
+
+[ mt | XVX3247371 192 XVX0002840 793 XVX0002857
+
+Name: DAVID SAINI Name: RAJENDRA Name: ASHA
+
+Father's Name : SAMUNDER SINGH Father's Name : CHANDGI RAM Husband's Name : RAJENDER
+
+House Number : 92 House Number: 93 . House Number: 93
+
+Age: 20 Sex: MALE Photo is Age: 62 Sex: MALE Photois || Age: 48 Sex: FEMALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022 Date of Publication:-05-01-2022 Total Pages 39 - Page 29
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T94 XVX1468040 795 XVX0004200 796 XVX0004226
+Name: NEHA Name: POONAM Name: PAVAN
+Father's Name: RAJINDER Husband's Name : PAVAN Father's Name: RAMLAL
+House Number: 93 House Number: 94 House Number: 94
+Age: 32 Sex: FEMALE Photo is Age: 55 Sex: FEMALE Photo is Age: 51 Sex: MALE Photo is
+Available Available Available
+[ 737] XVX0004234 798 XVX3272580 [ 799 XVX3272598
+Name: RITU SAINI Name: MANGAT RAM Name: SUKANYA
+Father's Name: ANIL SAINI Father's Name : SUBHASH Husband's Name: MANGAT RAM
+House Number: 94 House Number: 95 . House Number: 95
+Age: 34 Sex: FEMALE Photo is Age: 30 Sex: MALE Photois || Age: 26 Sex: FEMALE Photo is
+Available Available Available
+[ 800 | XVX2894 756 801 XVX3353265 802 XVX0002832
+Name: SURJEET SINGH Name: MEENA Name: AMIR SINGH
+Father's Name: AMIR SINGH Husband's Name: GARIB SINGH Father's Name: KALVA
+House Number: 95 House Number: 96 . House Number: 96
+Age: 26 Sex: MALE Photo is Age: 67 Sex: FEMALE Photo is || Age: 56 Sex: MALE Photo is
+Available Available Available
+| 803] XVX2635688 804 XVX2892206 | 805 XVX3321031
+Name: DEEPAK SAINI Name: SWEETY Name: HIMANSHU
+Father's Name: GARIB SINGH Father's Name: AMIR SINGH Father's Name: AMIR SINGH
+House Number: 96 House Number: 96 . House Number: 96
+Age: 25 Sex: MALE Photo is Age: 23 Sex: FEMALE Photo is Age: 20 Sex: MALE Photo is
+Available Available Available
+| 806 | XVX1468057 807 XVX1468065 | 808 XVX0003293
+Name: JITENDER SAINI Name: SHIVANI Name: SAHIB SINGH
+Father's Name: FATEH SINGH Husband's Name: JITENDER SAINI Father's Name: RAY SINGH
+House Number : 99 House Number: 99 . House Number: 100
+Age: 41 Sex: MALE Photo is Age: 37 Sex: FEMALE Photo is || Age: 56 Sex: MALE Photo is
+Available Available Available
+[ 809 | XVX0003301 810 XVX2313806 [ 811 XVX2965556
+Name: LAXMI DEVI Name: RANVIR KUMAR Name: SUMER SINGH
+Husband's Name: SAHIB SINGH Father's Name : TARA CHAND Father's Name: NIHALE
+House Number: 100 House Number: 101 ; House Number: 101
+Age: 51 Sex: FEMALE Photo is Age: 69 Sex: MALE Photo is Age: 63 Sex: MALE Photo is
+Available Available Available
+812 XVX0003574 813 XVX0004275 [ a4 XVX2313855
+Name: SUSHEELA SAINI Name: SURESH Name: DHANPATI DEVI
+Husband's Name : JAl BHAGWAN SAINI Husband's Name: SUMER Husband's Name: RANVIR KUMAR
+House Number: 101 House Number: 101 ; House Number: 101
+Age: 61 Sex: FEMALE Photo is Age: 61 Sex: FEMALE Photo is Age: 61 Sex: FEMALE Photo is
+Available Available Available
+[ 815 | XVX0003582 816 XVX0003590 [ B17 XVX0003608
+Name: SUMITRA Name: RAKESH Name: SUNITA
+Husband's Name : KHAJAN Father's Name : KARAN SINGH Husband's Name : RAKESH
+House Number: 101 House Number: 101 House Number: 101
+Age: 58 Sex: FEMALE Photo is Age: 55 Sex: MALE Photo is Age: 52 Sex: FEMALE Photo is
+Available Available Available
+818 JDJO798496 819 XVX0004283 [ 820 JDJO791699
+Name: KAVITA Name: PARVEEN KUMAR Name: NAVEEN KUMAR
+Husband's Name : PRAVEEN Father's Name : SUMER SINGH Father's Name : SUMER SINGH
+House Number: 101 House Number: 101 House Number: 101
+Age: 41 Sex: FEMALE Photo is Age: 41 Sex: MALE Photo is Age: 40 Sex: MALE Photo is
+Available Available Available
+[ 821 | XVX0003665 822 XVX0003681 [ 823 XVX0003699
+Name: AJANTA Name: MEENAKSHI Name: ARCHANA
+Father's Name: KHAJAN SINGH Father's Name : KHAJAN SINGH Father's Name - KHAJAN SINGH
+House Number: 101 House Number: 104 . House Number: 101
+Age: 37 Sex: FEMALE Photo is Age: 36 Sex: FEMALE Photois || Age: 33 Sex: FEMALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022 Date of Publication:-05-01-2022 Total Pages 39 - Page 30
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B24 XVX1771203 L225] XVX1854371 826 XVX2227691
+Name: ASHUTOSH SAINI Name: PRIYANKA SAINI Name: PUNIT SAINI
+Father's Name > KHAJAN SINGH SAINI Father's Name: RAKESH SAINI Father's Name : KHAZAN SINGH
+House Number: 101 House Number: 101 House Number: 101
+Age: 31 Sex: MALE Photo is Age: 31 Sex: FEMALE Photo is Age: 28 Sex: MALE Photo is
+Available Available Available
+827 XVX2289641 828 XVX0004309 829 XVX0004317
+Name: RUTIKA SAINI Name: SHAKUNTLA Name: SATPAL
+Father's Name: RANVIR SAINI Husband's Name: BHOM PAL Father's Name = BHIMSINGH
+House Number: 101 House Number: 102 . House Number: 102
+Age: 28 Sex: FEMALE Photo is Age: 73 Sex: FEMALE Photois || Age: 72 Sex: MALE Photo is
+Available Available Available
+830 XVX0004325 831 XVX0004341 832 XVX2948578
+Name: SURAT SINGH TIK KORIA Name: DARSHAN Name: KIRAN
+Father's Name: TULSHI RAM TIK Husband's Name : KRISHAN SARUP Husband's Name: VIKASH
+KORIYA House Number: 102 . House Number: 102
+House Number: 102 Photo is Age: 65 Sex: FEMALE Photois || Age: 57 Sex: FEMALE Photo is
+Age: 69 Sex: MALE Available Available Available
+833 XVX2965432 834 JDJ1030972 835 XVX0004382
+Name: YASH PAL Name: SANTOSH KUMARI Name: PAWAN
+Father's Name: BHIM SINGH Husband's Name: PAWAN KUMAR Father's Name : BHOM PAL
+House Number: 102 House Number: 102 House Number: 102
+Age: 56 Sex: MALE Photo is Age: 52 Sex: FEMALE Photo is Age: 49 Sex: MALE Photo is
+Available Available Available
+836 XVX0004416 837 XVX0004408 838 XVX0004424
+Name: GULSHAN Name: ARUNA DEVI Name: LOKESH
+Father's Name: SATPAL Husband's Name - GULSHAN KUMAR Father's Name: SATPAL
+House Number: 102 House Number: 102 . House Number: 102
+Age: 47 Sex: MALE Photo is Age: 46 Sex: FEMALE Photo is || Age: 42 Sex: MALE Photo is
+Available Available Available
+839 XVX0004457 840 XVX0004432 841 XVX0004440
+Name: VIKAS SAINI Name: LALIT KUMAR Name: GEETA SAINI
+Father's Name: KS BHARAL Father's Name: BHOM PAL Husband's Name : LOKESH
+House Number : 102 House Number: 102 House Number: 102
+Age: 40 Sex: MALE Photo is Age: 40 Sex: MALE Photo is Age: 40 Sex: FEMALE Photo is
+Available Available Available
+842 XVX2948586 843 XVX2967974 844 XVX0002675
+Name: VIKAS BHARAL Name: SHRIKISHAN Name: HARI KISHEN
+Father's Name: KRISHAN BHARAL Father's Name: RISHAL SINGH Father's Name: RISAL SINGH
+House Number : 102 House Number: 103 House Number: 103
+Age: 40 Sex: MALE Photo is Age: 68 Sex: MALE Photo is Age: 63 Sex: MALE Photo is
+Available Available Available
+B45 XVX0002683 846 XVX0002642 B47 XVX0002691
+Name: PREM SINGH SAINI Name: NANDI Name: KRISHANA SAINI
+Father's Name: RISHAL SINGH Husband's Name : SHRI KISHEN Husband's Name: PREM SINGH SAINI
+House Number: 103 House Number: 103 House Number: 103
+Age: 63 Sex: MALE Photo is Age: 63 Sex: FEMALE Photo is Age: 61 Sex: FEMALE Photo is
+Available Available Available
+848 XVX2070167 849 XVX0002709 850 JDJ1467570
+Name: KRISHNA Name: KHINNA SAINI Name: SALIM
+Husband's Name : PREM SINGH SAINI Father's Name : RISAL SINGH Father's Name: SHABIR
+House Number: 103 House Number: 103 House Number: 103
+Age: 59 Sex: FEMALE Photo is Age: 47 Sex: MALE Photo is Age: 468 Sex: MALE Photo is
+Available Available Available
+851 JDJ1028182 852 JDJ1467661 853 XVX1468073
+Name: TARAWATI Name: MUNAJRA Name: MANISHA
+Husband's Name: KHINNA Husband's Name : SALIM Father's Name: RAJINDER SAINI
+House Number: 103 House Number: 103 . House Number: 103
+Age: 45 Sex: FEMALE Photo is Age: 44 Sex: FEMALE Photois || Age: 38 Sex: FEMALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 31
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+B54 JDJ1030717 L255] JDJ1031921 856 XVX0002717
+Name: DEEP MALA Name: AJAD SAINI Name: PAYAL
+Father's Name: RAJENDER PRASAD Father's Name : KISHAN SAINI Husband's Name: VISHNU PARKASH
+House Number: 103 House Number: 103 House Number: 103
+Age: 37 Sex: FEMALE Photo is Age: 37 Sex: MALE Photo is Age: 36 Sex: FEMALE Photo is
+Available Available Available
+87 XVX2380623 858 XVX0002725 859 XVX2871226
+Name: MAHESH Name: POOJA SAINI Name: SONU CHAUHAN
+Father's Name: SHYAM LAL SHARMA Father's Name : PREM SINGH SAINI Father's Name : RAMESH CHAUHAN
+House Number: 103 House Number: 103 . House Number: 103
+Age: 35 Sex: MALE Photo is Age: 34 Sex: FEMALE Photo is || Age: 34 Sex: MALE Photo is
+Available Available Available
+860 XVX1978988 861 XVX0002733 862 XVX1854439
+Name: POOJA SAINI Name: PANKAJ Name: ANKIT SAINI
+Husband's Name : PANKAJ SAINI Father's Name : HARI KISHAN Father's Name: PREM SINGH SAINI
+House Number: 103 House Number: 103 . House Number: 103
+Age: 33 Sex: FEMALE Photo is Age: 32 Sex: MALE Photo is || Age: 30 Sex: MALE Photo is
+Available Available Available
+863 XVX1854397 864 XVX2894731 865 XVX24 78062
+Name: POOJA RANI Name: ANKIT SAINI Name: SONU
+Husband's Name: AJAD SINGH Father's Name : PREM SINGH SAINI Father's Name : RAMESH
+House Number: 103 House Number: 103 House Number: 103
+Age: 30 Sex: FEMALE Photo is Age: 30 Sex: MALE Photo is Age: 29 Sex: MALE Photo is
+Available Available Available
+866 XVX2070126 867 XVX2048569 868 XVX2964161
+Name: SEEMA SAINI Name: ABHILASH SAINI Name: SONAM
+Father's Name: PREM SAINI Father's Name : KHINNA SAINI Father's Name: SALIM
+House Number: 103 House Number: 103 . House Number: 103
+Age: 28 Sex: FEMALE Photo is Age: 27 Sex: MALE Photois || Age: 27 Sex: FEMALE Photo is
+Available Available Available
+869 XVX2647393 870 XVX2787538 871 XVX2861367
+Name: SHABNAM Name: BHARATI Name: gaurav
+Father's Name: SALIM Husband's Name: AZAD SAINI Father's Name: khinna saini
+House Number: 103 House Number: 103 House Number: 103
+Age: 26 Sex: FEMALE Photo is Age: 24 Sex: FEMALE Photo is Age: 22 Sex: MALE Photo is
+Available Available Available
+72 XVX2863587 873 JDJ1030709 74 XVX2633328
+Name: TASLIM Name: RAJENDER PRASHAD Name: NISHA
+Father's Name: MD SALIM Father's Name: RISHAL SINGH Father's Name: SOMPAL
+House Number: 103 House Number: 1038. House Number: 104
+Age: 21 Sex: MALE Photo is Age: 65 Sex: MALE Photo is Age: 35 Sex: FEMALE Photo is
+Available Available Available
+875 XVX0002766 876 XVX2049145 arr XVX2079655
+Name: VED KUMARI Name : MEHARBAN Name: RUKSANA
+Husband's Name : RATTAN Father's Name : MANGTA Husband's Name : MEHARBAN
+SWAROOP House Number: 105 House Number: 105
+House Number: 105 Photo is Age: 48 Sex: MALE Photo is Age: 47 Sex: FEMALE Photo is
+Age: 66 Sex: FEMALE Available Available Available
+878 XVX2907491 878 JDJ0788554 880 JDJ1031426
+Name: Mahesh kumar Name > MANISH Name: VIKASH SAINI
+Father's Name: Mahender Singh Father's Name: RAJENDER Father's Name: RAJENDER SAINI
+House Number: 105 House Number: 105 House Number: 105
+Age: 43 Sex: MALE Photo is Age: 38 Sex: MALE Photo is Age: 38 Sex: MALE Photo is
+Available Available Available
+881 XVX2064490 882 XVX2076404 883 XVX1771120
+Name: NISHA Name: SUMAN Name: GAURAV SAINI
+Husband's Name: VIKAS SAINI Husband's Name : MANISH SAINI Father's Name: RAJENDER SAINI
+House Number: 105 House Number: 105 . House Number: 105
+Age: 35 Sex: FEMALE Photo is Age: 33 Sex: FEMALE Photois || Age: 31 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 32
+
+ 
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B84 XVX2379419 885 XVX2177160 886 XVX2840056
+Name: SADDAM HUSSAIN Name: SAHAEDAB Name: Ramanand
+Father's Name : MEHER BHAN Father's Name : MEHARBAN Father's Name: Sohan Lal
+House Number: 105 House Number: 105 House Number: 107
+Age: 28 Sex: MALE Photo is Age: 27 Sex: MALE Photo is Age: 73 Sex: MALE Photo is
+Available Available Available
+887 XVX2251213 888 XVX0004499 889 XVX0004507
+Name: SHAMA SHARMA Name: RAMAKANT PODDAR Name: RAJ KUMARI
+Husband's Name: SUNIL Father's Name : MAHENDER PODDAR Husband's Name: RAMA KANT
+House Number: 109 House Number: 114 . House Number: 111
+Age: 33 Sex: FEMALE Photo is Age: 69 Sex: MALE Photois || Age: 49 Sex: FEMALE Photo is
+Available Available Available
+890 XVX0004515 891 XVX2571586 892 XVX2692 746
+Name: REKHA Name: MOHIT Name: SKUMARI
+Husband's Name: AMIT Father's Name: ROHIT Father's Name: RAMA KANT PODDAR
+House Number: 111 House Number: 114 . House Number: 111
+Age: 38 Sex: FEMALE Photo is Age: 27 Sex: MALE Photois || Age: 24 Sex: FEMALE Photo is
+Available Available Available
+893 XVX2249281 894 XVX2673142 895 XVX2673150
+Name: RAVINDRA KUMAR Name: SATISH Name: SUMAN
+Father's Name: SURAJ BHAN Father's Name: BENI PRASAD Husband's Name: SATISH
+House Number: 112 House Number: 115 House Number: 115
+Age: 42 Sex: MALE Photo is Age: 70 Sex: MALE Photo is Age: 67 Sex: FEMALE Photo is
+Available Available Available
+896 XVX2636371 897 XVX2635695 898 XVX2890234
+Name: PALLAVI Name = KHUSHAL SAINI Name: RITIKA
+Father's Name: SATISH KUMAR Father's Name : SATISH KUMAR Father's Name: SATISH KUMAR
+House Number: 115 House Number: 115 . House Number: 115
+Age: 26 Sex: FEMALE Photo is Age: 25 Sex: MALE Photois || Age: 22 Sex: FEMALE Photo is
+Available Available Available
+899 XVX0002865 $00 XVX1771187 901 LPY1132547
+Name: BHOOP SINGH Name: YOGENDER SINGH Name: GUDDI
+Father's Name : RAGHUBIR SINGH Father's Name : JAl CHAND SAINI Husband's Name : YOGENDER SINGH
+House Number: 119 House Number: 119 House Number: 119
+Age: 63 Sex: MALE Photo is Age: 62 Sex: MALE Photo is Age: 58 Sex: FEMALE Photo is
+Available Available Available
+g02 XVX0003046 903 XVX1854405 904 XVX0002881
+Name: MANJU BALA Name: NAVEEN KUMAR Name: MANISH KUMAR
+Husband's Name : DEVENDER Father's Name : YOGENDER SINGH Father's Name - BHOOP SINGH
+House Number: 119 House Number: 119 House Number: 119
+Age: 50 Sex: FEMALE Photo is Age: 33 Sex: MALE Photo is Age: 32 Sex: MALE Photo is
+Available Available Available
+805 XVX1771179 $06 XVX2400455 907 XVX2535698
+Name: MUKESH KUMAR Name: SHILPA SAINI Name: INDU SAINI
+Father's Name : YOGINDER SINGH Father's Name : DEVENDER KUMAR Father's Name - BHOOP SINGH
+House Number: 119 House Number: 119 House Number: 119
+Age: 31 Sex: MALE Photo is Age: 26 Sex: FEMALE Photo is Age: 26 Sex: FEMALE Photo is
+Available Available Available
+908 XVX2761780 908 XVX2849719 910 XVX2899623
+Name: RAVINA SAINI Name: KUNAL SAINI Name: SHALINI
+Father's Name : DEVENDER KUMAR Father's Name : DEVENDER KUMAR Father's Name : RAKESH SAINI
+SAINI House Number: 119 House Number: 121
+House Number: 119 Photo is Age: 21 Sex: MALE Photo is Age: 26 Sex: FEMALE Photo is
+Age: 23 Sex: FEMALE Available Available Available
+91 XVX2892172 ote XVX2889376 913 XVX2477691
+Name: RUCHIKA SAINI Name: MAYANK SAINI Name: GANESH MANDAL
+Father's Name: RAKESH SAINI Father's Name: RAKESH SAINI Father's Name - JEEVAN MANDAL
+House Number: 124 House Number: 124 . House Number: 128
+Age: 23 Sex: FEMALE Photo is Age: 22 Sex: MALE Photois || Age: 51 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 33
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+14 XVX2477759 918 XVX3272523 916 XVX3286515
+Name: GEETA MANDAL Name: HSINA Name: AARTI
+Husband's Name : GANESH MANDAL Husband's Name : MOHAN Father's Name: JAl NARAYAN
+House Number: 128 House Number: 128 House Number: 133
+Age: 45 Sex: FEMALE Photo is Age: 28 Sex: FEMALE Photo is Age: 29 Sex: FEMALE Photo is
+Available Available Available
+a7 XVX3290145 918 XVX2070266 919 XVX2070282
+Name: VIKAS PAL Name: SHAKUNTLA RANI Name: BHUPINDER SHARMA
+Father's Name: JAl NARAYAN Husband's Name: RAMJI LAL SHARMA Father's Name: RAMJILAL SHARMA
+House Number: 133 House Number: 135 . House Number: 135
+Age: 24 Sex: MALE Photo is Age: 70 Sex: FEMALE Photo is || Age: 42 Sex: MALE Photo is
+Available Available Available
+920 XVX2070456 921 XVX2942944 922 XVX1468081
+Name: POOJA SHARMA Name: CHANDNI DEVI Name: VEENA WALIYA
+Husband's Name : BUPINDER Husband's Name : SUNIL KUMAR Husband's Name : HARENDER
+SHARMA House Number: 135 ; House Number: 137
+House Number: 135 Photo is Age: 24 Sex: FEMALE Photois || Age: 53 Sex: FEMALE Photo is
+Age: 31 Sex: FEMALE Available Available Available
+823 XVX2892321 924 XVX2529641 925 XVX2079639
+Name: PANKAJ Name: JASBIR SINGH Name: PANNA LAL
+Father's Name: BALKISHAN Father's Name : HARI KISHAN Father's Name: RAJJE LAL
+House Number: 163 House Number: 165 . House Number: 174
+Age: 27 Sex: MALE Photo is Age: 37 Sex: MALE Photo is Age: 56 Sex: MALE Photo is
+Available Available Available
+926 XVX2501674 927 XVX2582939 928 XVX2049137
+Name: ROHIT KUMAR Name: DEVESH Name: SACHIN
+Father's Name: MANN SINGH Father's Name : RATTAN SINGH Father's Name: PANNA LAL
+House Number: 174 House Number: 174 . House Number: 174
+Age: 41 Sex: MALE Photo is Age: 29 Sex: MALE Photois || Age: 28 Sex: MALE Photo is
+Available Available Available
+929 XVX0003939 $30 XVX0003947 931 XVX0003988
+Name: GYANO Name: RAKESH KUMAR Name: DINESH
+Husband's Name : GOP] CHAND Father's Name : GOP! CHAND Father's Name - GOP! CHAND
+House Number: 176 House Number: 176 ; House Number: 176
+Age: 73 Sex: FEMALE Photo is Age: 51 Sex: MALE Photo is Age: 51 Sex: MALE Photo is
+Available Available Available
+932 XVX0003954 933 XVX0003970 934 XVX0003962
+Name: DHARMENDER KUMAR Name: SUNITA SAINI Name: GEETA SAINI
+Father's Name : GOP! CHAND Husband's Name : DINESH KUMAR Husband's Name : RAKESH KUMAR,
+House Number: 176 House Number: 176 ; House Number: 176
+Age: 47 Sex: MALE Photo is Age: 45 Sex: FEMALE Photo is Age: 45 Sex: FEMALE Photo is
+Available Available Available
+935 JDJ0800557 936 XVX0004002 937 XVX2478194
+Name: KESHAV SAINI Name: POONAM Name: SANGEETA DEVI
+Father's Name : GOP! CHAND Husband's Name : DHARMENDER Husband's Name : KESHAYV SAINI
+House Number: 176 KUMAR House Number: 176
+Age: 40 Sex: MALE Photo is || House Number: 176 Photo is || Age: 34 Sex: FEMALE Photo is
+Available Age: 34 Sex: FEMALE Available Available
+938 XVX2217072 939 XVX2250230 940 XVX2250256
+Name: SURENDER KUMAR YADAV Name : MUKESH SINGH Name: HARI KUMAR YADAV
+Father's Name: SIKANDER YADAV Father's Name : PANCHAN SINGH Father's Name: RAM NARAYAN YADAV
+House Number: 176 House Number: 176 House Number: 176
+Age: 33 Sex: MALE Photo is Age: 32 Sex: MALE Photo is Age: 30 Sex: MALE Photo is
+Available Available Available
+[ Raa] XVX2864577 942 XVX2864593 [ 943 JDJ1032135
+Name: SURAJ “ase Name: SANDEEP Name: CHHAYA
+Father's Name : Father's Name : RAMCHANDER Husband's Name: SATYA DEV
+nee Num House Number: 184 . House Number: 206
+: Photo is Age: 21 Sex: MALE Photois || Age: 57 Sex: FEMALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 34
+Assembly Constituency No and Name: 1-NERELA
+
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oa4 XVX2078400 945 XVX2078418 946 XVX1468107
+Name: KIRTI Name: RUCHI Name: SHANTI DEVI
+Father's Name: SATYA DEV SAINI Father's Name: SATYA DEV SAINI Husband's Name : MAHENDER SINGH
+House Number: 206 House Number: 206 House Number: 208
+Age: 30 Sex: FEMALE Photo is Age: 28 Sex: FEMALE Photo is Age: 73 Sex: FEMALE Photo is
+Available Available Available
+47 XVX1468115 948 XVX1467950 949 XVX3338431
+Name: JAGMOHAN Name: REKHA Name = Anil Saini
+Father's Name : MAHENDER SINGH Husband's Name: JAGMOHAN Father's Name: Babu Lal Saini
+House Number : 208 House Number: 208 . House Number : 209 shiv mandir gali
+Age: 52 Sex: MALE Photo is Age: 47 Sex: FEMALE Photo is || Age: 40 Sex: MALE Photo is
+Available Available Available
+950 XVX2929073 951 XVX0002154 952 XVX2065852
+Name: RAMPAL Name: URMILA Name: PAWAN SAINI
+Father's Name : DHARAM SINGH Husband's Name : RAMPAL Father's Name: BABU LAL
+House Number : 242 House Number : 212 . House Number: 212
+Age: 70 Sex: MALE Photo is Age: 67 Sex: FEMALE Photo is || Age: 57 Sex: MALE Photo is
+Available Available Available
+953 XVX2065860 954 XVX0002162 955 JDJ0787820
+Name: BEENA Name: SATISH Name: RATAN LAL
+Husband's Name : PAWAN Father's Name : RAMPAL Father's Name: RAM PAL
+House Number : 242 House Number : 212 House Number: 212
+Age: 55 Sex: FEMALE Photo is Age: 47 Sex: MALE Photo is Age: 45 Sex: MALE Photo is
+Available Available Available
+956 XVX0002170 957 XVX0002196 958 XVX2911774
+Name: NILAM Name: AARTI Name: TANNU
+Husband's Name: SATISH Husband's Name: RATAN LAL Father's Name: PAWAN SAINI
+House Number : 242 House Number : 212 . House Number: 212
+Age: 42 Sex: FEMALE Photo is Age: 37 Sex: FEMALE Photois || Age: 22 Sex: FEMALE Photo is
+Available Available Available
+959 XVX2954352 960 XVX0002097 961 XVX0002089
+Name: HIMANSHU Name: BIMLA Name: MANGE RAM
+Father's Name: SHASH| KAPOOR Husband's Name : MANGE RAM Father's Name : DHARAM SINGH
+House Number : 212 House Number: 213 House Number: 213
+Age: 22 Sex: MALE Photo is Age: 73 Sex: FEMALE Photo is Age: 71 Sex: MALE Photo is
+Available Available Available
+962 XVX2909836 963 XVX0002139 964 XVX2944726
+Name: MOHAN Name: PARDEEP Name: PREETI
+Father's Name: MANGE RAM Father's Name: MANGE RAM Husband's Name : PARDEEP
+House Number : 213 House Number: 213 House Number: 213
+Age: 51 Sex: MALE Photo is Age: 38 Sex: MALE Photo is Age: 35 Sex: FEMALE Photo is
+Available Available Available
+965 XVX2909844 966 XVX2909851 967 XVX2070118
+Name: NEHA SAINI Name: SURBHI SAINI Name: PARVEEN KUMAR
+Father's Name : MOHAN SAINI Father's Name : MOHAN SAINI Father's Name: RAJPAL SINGH
+House Number: 213 House Number: 213 House Number: 218
+Age: 24 Sex: FEMALE Photo is Age: 22 Sex: FEMALE Photo is Age: 31 Sex: MALE Photo is
+Available Available Available
+968 XVX3352895 969 AZK2166965 970 XVX2907046
+Name: ANJALI VERMA Name : Lalita Kuman Saini Name: AKASH SAINI
+Husband's Name : RAMESH PRASAD Husband's Name : Gaurav Saini Father's Name: PREM SAINI
+VERMA House Number: H.no. 64 House Number: H NO 103
+House Number: B-86 Photo is Age: 31 Sex: FEMALE Photo is Age: 24 Sex: MALE Photo is
+Age: 53 Sex: FEMALE Available Available Available
+on XVX2889418 g72 XVX2502870 973 XVX1991792
+Name: RAHUL SAINI Name: GEETA Name: SAURABH
+Father's Name: SHEELA SAINI Husband's Name : PAWAN Father's Name : DHYAN SARUP
+House Number > H.NO-121 House Number: HN-124 | House Number > HNO-15.
+Age: 22 Sex: MALE Photo is Age: 37 Sex: FEMALE Photo is || Age: 30 Sex: MALE Photo is
+Available Available Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 35
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+Section No and Name : 4-SHIV MANDIR GALI, VILLAGE LAMPUR
+gr XVX2269958 975 XVX2880359 976 XVX2907236
+Name: ROHIT SAINI Name: VAISHALI Name: TARUN SAINI
+Father's Name : RAKESH KUMAR SAINI Father's Name : RAMESH KUMAR Father's Name: SURENDER SAINI
+House Number: HNO101 House Number : HOUSE NO-37 House Number: HOUSE NO-61
+Age: 28 Sex: MALE Photo is Age: 25 Sex: FEMALE Photo is Age: 22 Sex: MALE Photo is
+Available Available Available
+a7 XVX2417060 978 XVX2905222 979 XVX3225083
+Name: SURAJ VIR SINGH Name: SUBHASH Name: RAM SWROOP KUMAWAT
+Father's Name : BHANWAR SINGH Father's Name: RAJBIR Father's Name : KESHAR DEV
+House Number : KH-NO- House Number : KH NO- 33/17/2 . KUMAWAT
+Age: 40 Sex: MALE Photo is Age: 27 Sex: MALE Photo is House Number: KH.NO-38/14 Photo is
+Available Available Age: 41 Sex: MALE Available
+980 XVX3283017 981 XVX3346053 982 XVX3326592
+Name: NIRMALA DEVI Name: ANISH ALI Name: SEEMA
+Husband's Name : RAM SWROOP Father's Name : ABDUL MAJID Husband's Name : BHAGAT SINGH
+KUMAWAT House Number: KH NO-39/11 ; House Number = KH NO-39/20
+House Number: KH.NO.38/14 Photo is Age: 33 Sex: MALE Photois || Age: 33 Sex: FEMALE Photo is
+Age: 36 Sex: FEMALE Available Available Available
+983 XVX3304573 g84 XVX0010199 985 XVX2880342
+Name: OM PRAKASH Name: SHAKUNTLA Name: AMAN
+Father's Name: NATTHU RAM Husband's Name: SHISH PAL Father's Name: RAM KUMAR
+House Number > KH.NO.50/2 House Number: KH NO-50/2 | House Number: KH NO 50/3
+Age: 72 Sex: MALE Photo is Age: 52 Sex: FEMALE Photo is Age: 22 Sex: MALE Photo is
+Available Available Available
+986 JDJ0717876 987 XVX1986784 988 XVX2929164
+Name: SUNITA Name: VIRENDER SAIN Name: RAJBIR
+Husband's Name: VIRENDER SAIN Father's Name : INDER SAIN Father's Name: NAFE SINGH
+House Number : KH NO- 50/8 House Number: KH NO- 50/8 -GF | House Number - KH NO- 50/9.
+Age: 37 Sex: FEMALE Photo is Age: 37 Sex: MALE Photois || Age: 49 Sex: MALE Photo is
+Available Available Available
+989 XVX2929156 $90 XVX2929172 991 XVX2885499
+Name: BALA Name: KULWANT Name : KUNTESH
+Husband's Name : RAJBIR Father's Name: RAJBIR SINGH Husband's Name : NARESH PAL
+House Number : KH NO- 50/9 House Number : KH NO- 50/9 ; House Number > KH NO-50/12
+Age: 47 Sex: FEMALE Photo is Age: 24 Sex: MALE Photo is Age: 32 Sex: FEMALE Photo is
+Available Available Available
+992 XVX0537262 993 XVX1990570 994 XVX2936821
+Name: NEERAJ KUMAR Name: JYOTI ROHILLA Name: REKHA
+Father's Name: RAJINDER SINGH Husband's Name : NEERAJ KUMAR Husband's Name : MAMAN
+House Number: KHASRA NO. 87/3 House Number: KHASRA NO. 87/3 ; House Number > PLOT-31/KH-38/14
+Age: 39 Sex: MALE Photo is Age: 37 Sex: FEMALE Photo is Age: 32 Sex: FEMALE Photo is
+Available Available Available
+995 XVX2936805
+Name: MAMAN
+Father's Name: RAJPAL
+House Number: PLOT-31/KH NO-50/12
+Age: 36 Sex: MALE Photo is
+Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 36
+
+ 
+Assembly Constituency No and Name: 1-NERELA
+
+1-List of Addition - 1 -( 01-11-2021 to 30-11-2021 )
+
+Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+XVX3808280 XVX2301240 XVXS867350
+Name: RATNA AGRAHARI Name: SUNAINA Name: POOJA
+Husband's Name : SANTOSH KUMAR Husband's Name : SURENDER Husband's Name : RAJ KUMAR
+House Number: FLAT NO- 17, 4TH . MISHRA . House Number: 38-D: .
+FLOOR Photo is {House Number: 5D THIRD FLOOR Photo is |! age: 26 Sex: FEMALE Photo is
+Age: 38 Sex: FEMALE Available Age: 36 Sex: FEMALE Available Available
+[4 XVX3067406 [| XVXI367414 [4] XVXIB87422
+Name: USHA Name: DHARMENDER Name: UJJWAL PRATAP SINGH
+Husband's Name : DHARMENDER Father's Name : RAGHBIR. Father's Name: VIJAY KUMAR SINGH
+House Number: 35/16 Phat House Number: KH NO 35/16 Phot House Number: 142 KH NO 39/26 Phat
+Age: 45 Sex: FEMALE Dvailable Age: 47 Sex: MALE Available Age: 35 Sex: MALE Available
+XVX367430 [3] vxsee74s VASSETASS
+Name: SUMITA KUMARI Name: TANNU Name: KHUSHI RANI
+Husband's Name : UJJVWWAL PRATAP Father's Name: PAWAN KUMAR Father's Name : PAWAN KUMAR,
+SINGH Phato i House Number: 21 Photo i House Number: 21 Photo i
+House Number: 142 KH NO 39/26 A on Age: 22 Sex: FEMALE ih cto s Age: 19 Sex: FEMALE e ote &
+Age: 33 Sex: FEMALE vailable wailable vailable
+[4 XVXS3674853 XVX380785 C4] XVX3872265
+Name: NEERU Name: VISHAL KUMAR Name: Ritu Saini
+Husband's Name : ROHIT KAUSHAL Father's Name: ARVIND Husband's Name : Naveen Kumar
+House Number: 15 Phot House Number: 133 Phot House Number : H No.119 Phot
+Age: 22 Sex: FEMALE Dvailable Age: 19 Sex: MALE Available Age: 27 Sex: FEMALE Available
+XVX3373362 [4 XVX3374113 XVX3374907
+Name : BHARTI Name : Rajesh kumar Name: ROHAN
+Husband's Name : PAWAN KUMAR Mother's Name : suman Father's Name: RAJ SINGH
+House Number: 2 Photo i House Number: 96 Photo i House Number : KH NO 35/12 Photo i
+Age. 40 Sex: FEMALE posto Age: 19 Sex: MALE heotore Age: 22 Sex: FEMALE peo tote
+4014 1012 1013
+XVX3374923 [4 XVX3375144 XVX3375177
+Name: MEENAKSHI Name: Priyanshu Name > ANJALI
+Father's Name: RAJ PAL SINGH Mother's Name : meena kumari Father's Name : MANOJ KUMAR
+House Number: 216 Phat House Number: 50/8 Phot House Number : HOUSE NO-365 Phat
+Age: 23 Sex: FEMALE Dvailable Age: 19 Sex: MALE Available Age: 20 Sex: FEMALE Available
+XVX3375201 XVX3375243 1016 4 XVX3375268
+Name: Poonam Singh Name: Aman Name: ARTI SAINI
+Husband's Name: Deep Singh Mother's Name: Pushpa Husband's Name: ANKIT SAINI
+House Number: Kh no 41/3 Photo is House Number : Kh.no-10 Photo is House Number: 103 Photo is
+Age: 35 Sex: FEMALE Available Age: 19 Sex: MALE Available Age: 26 Sex: FEMALE Available
+1017 1018 1019
+XVX3575276 4] XVXSB75284 XVX3885853
+Name: PARUL Name: MANISHA Name: ANJALI
+Father's Name: SANDEEP Husband's Name: MOHIT Father's Name : MUKESH KUMAR
+House Number: 138 Phat House Number: 111 Phot House Number: 23 Phat
+Age: 19 Sex: FEMALE Dvailable Age: 26 Sex: FEMALE Available Age: 18 Sex: FEMALE Available
+[4 XVKSBB591 [4 XVxG887677 >VxG087685
+Name: Shubham Name: HARKASH Name: PAWAN
+Father's Name: Ramesh kumar Father's Name - PANNA LAL Father's Name : ARJUN SINGH
+House Number: 87-A Phot House Number: 169-KH-NO-35/18 Phot House Number: KH-NO-38/6 Phot
+Age: 18 Sex: MALE Available || Age: 41 Sex: MALE Availabe || Age: 22 Sex: MALE Available
+Name: HARSH Name : ISHA SAINI Name: Urmila Singh
+Father's Name: RAJ KUMAR Mother's Name: BABLI Husband's Name: Akhilesh Singh
+H Number: 33A H Number: 193. Hi Number: 87/2
+Ouse am r Photo is Ouse um r Photo is Ouse um r Photo is
+Age: 18 Sex: MALE Available Age: 18 Sex: FEMALE Available Age: 39 Sex: FEMALE Available
+Date of Publication:-05-01-2022 Total Pages 39 - Page 37
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+XVX3388477 XVX3889137 XVKIB9525
+Name: DEEPANSHU Name : DEEPANSHI Name > AMAR KUMAR
+
+Father's Name: SANJAY KUMAR, Husband's Name: AJAY Father's Name : MANOJ KUMAR
+
+House Number: 33 Photo is House Number: 44 Photo is House Number : H NO-365 Photo is
+Age: 18 Sex: MALE Available Age: 18 Sex: FEMALE Available Age: 18 Sex: MALE Available
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Age as on 01.01.2022
+
+Date of Publication:-05-01-2022
+
+Total Pages 39 - Page 38
+
+ 
+Assembly Constituency No and Name: 1-NERELA Part No.-:1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUMMARY OF ELECTORS
+A) NUMBER OF ELECTORS
+Roll Type Roll Identification NUMBER OF ELECTORS
+Male Female Third Total
+Gender
+Original Mother Roll Basic roll of intensive revision, 547 448 0 995
+2008
+integrated with all supplements
+preceding special summary
+revision,
+2022
+Il Additions List Supplement 1 Special Summary Revision, 12 21 0 33
+2022
+Ill Deletions List | Supplement 1 Special Summary Revision, 1 2 0 3
+2022
+IV Difference due to modification in ‘Gender’ field Q 0 0 0
+Net Elector in this Roll after this Revision (I+lI-IIl) 558 467 0 1025
+B) NUMBER OF MODIFICATIONS
+Roll Type Roll Identification NUMBER OF
+MODIFICATIONS
+Supplement 1 Special Summary Revision, 4
+2022
+Total : 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Issued by Electoral Registration Officer
+
+E-Expired S-Shifted R-Duplicate M-Missing Q-Disqualified
+
+Age as on 01.01.2022 Date of Publication:-05-01-2022 Total Pages 39 - Page 39
+
